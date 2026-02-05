@@ -1,8 +1,23 @@
 
 import os
 import json
-from main import norm, score
+import re
+from difflib import SequenceMatcher
+
+def norm(text: str) -> str:
+    # Lowercase, collapse whitespace, strip punctuation for lightweight fuzzy matching
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+def score(a: str, b: str) -> float:
+    # Similarity score between 0 and 1
+    if not a or not b:
+        return 0.0
+    return SequenceMatcher(None, a, b).ratio()
 # Columns: ['major', 'from', 'to', 'agreements', 'groups']
+# insitution ID to name mapping
 INSTITUTION_MAP = {
     7: "UC, San Diego",
     11: "California Polytechnic University, San Luis Obispo",
@@ -32,11 +47,11 @@ INSTITUTION_MAP = {
     144: "UC, Merced",
 }
 
-
+# gets user input for university
 user_uni = input("Enter Receiving University: ").strip()
 # mapping: lowercase university name -> institution ID
 name_to_id = {v.lower(): k for k, v in INSTITUTION_MAP.items()}
-
+# fuzzy match user input against known university names
 u_query = norm(user_uni)
 u_matches = []
 for name, inst_id in name_to_id.items():
@@ -50,12 +65,15 @@ if not u_matches:
     raise ValueError("No university matches found.")
 
 print("\nTop university matches:")
+# display top 3 matches with scores
 for i, (s, name, inst_id) in enumerate(u_matches[:3], start=1):
     print(f"{i}. {INSTITUTION_MAP[inst_id]}  (score={s:.2f})")
 choice = input("Pick 1-3 (or press Enter for #1): ").strip()
 idx = 0 if choice == "" else max(1, min(3, int(choice))) - 1
+# get selected university ID from matches
 user_id = u_matches[idx][2]
 print(f"Selected: {INSTITUTION_MAP[user_id]} (ID {user_id})")
+# determine base directory for data files
 script_dir = os.path.dirname(os.path.abspath(__file__))
 candidate_dirs = [
     script_dir,
@@ -68,8 +86,9 @@ if not os.path.isdir(folder):
     raise FileNotFoundError(
         f"No folder found for 113-{user_id} under {base_dir}"
     )
+# gets user input for major
 user_major = input("Enter Major you want to transfer into: ").strip()
-
+# fuzzy match user input against major names in the selected folder
 q = norm(user_major)
 matches = []
 
@@ -103,9 +122,7 @@ else:
     selected = matches[idx]
     print(f"\nSelected major: {selected[1]} (score={selected[0]:.2f})")
     data = selected[2]
-    #print(json.dumps(data, indent=2))
-
-
+# Function to create a unique key for a course
 def course_key(course: dict) -> tuple:
         return (
             course.get("prefix", ""),
@@ -119,7 +136,6 @@ def fmt_course(course: dict) -> str:
     number = course.get("courseNumber", "")
     title = course.get("courseTitle", "")
     return f"{prefix} {number} — {title}".strip()
-
 
 # Build mapping: target (UC) course -> list of De Anza courses
 target_to_sources = {}
@@ -137,11 +153,13 @@ for ag in data.get("agreements", []) or []:
             )
 
 # Display transfer articulation information
+# Print major and from/to institutions
 print(f"MAJOR: {data.get('major', '')}")
 print(f"FROM: {data.get('from', {}).get('names', [{}])[-1].get('name', '')}")
 print(f"TO: {data.get('to', {}).get('names', [{}])[-1].get('name', '')}")
-
+# Iterate through each group in the data (group is and & or requirement)
 for group_name, group_list in (data.get("groups", {}) or {}).items():
+    # show group name
     print(f"\nGROUP: {group_name}")
     for group in group_list:
         instr = group.get("instruction", {}) or {}
@@ -149,11 +167,12 @@ for group_name, group_list in (data.get("groups", {}) or {}).items():
         instr_sel = instr.get("selectionType", "")
         instr_conj = instr.get("conjunction", "")
         if instr_type or instr_sel or instr_conj:
+            # show the types of instructions for the group
             print(f"  Instruction: {instr_type} / {instr_sel} / {instr_conj}")
-
+        # show sections within the group
         sections = group.get("sections", []) or []
         for s_idx, section in enumerate(sections):
-            print(f"  Section {s_idx + 1} (choose ONE from these options):")
+            print(f"  Section {s_idx + 1} (choose ONE from these categorys):")
             for o_idx, item in enumerate(section):
                 course = item.get("course", {}) if isinstance(item, dict) else {}
                 t_key = course_key(course)
@@ -165,10 +184,12 @@ for group_name, group_list in (data.get("groups", {}) or {}).items():
                     continue
                 print("      De Anza options:")
                 for s in sources:
+                    # de anza classes will be displayed
                     label = s.get("group", "")
                     prefix = s["course"].get("prefix", "")
                     number = s["course"].get("courseNumber", "")
                     title = s["course"].get("courseTitle", "")
+                    # print de anza classes with label, prefix, number, title
                     if label:
                         print(f"        - [{label}] {prefix} {number} — {title}")
                     else:

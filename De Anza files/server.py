@@ -1,6 +1,6 @@
 from flask import Flask, Response
 import os
-from web import x
+
 app = Flask(__name__)
 
 @app.after_request
@@ -8,9 +8,7 @@ def add_cors_headers(response):
     response.headers["Access-Control-Allow-Origin"] = "*"
     return response
 
-@app.route("/members")
-def members():
-    return {"members": x}
+
 
 @app.route("/")
 def root():

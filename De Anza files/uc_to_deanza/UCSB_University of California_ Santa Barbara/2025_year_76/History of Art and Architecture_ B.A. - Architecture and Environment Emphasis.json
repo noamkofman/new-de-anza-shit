@@ -1,0 +1,1838 @@
+{
+  "result": {
+    "name": "History of Art and Architecture, B.A. - Architecture and Environment Emphasis",
+    "type": "Major",
+    "publishDate": "2025-11-20T00:16:30.688366",
+    "receivingInstitution": "{\"id\":128,\"code\":\"UCSB    \",\"isCommunityCollege\":false,\"category\":\"UC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"University of California, Santa Barbara\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "GeneralText",
+        "content": "<p><strong>All transfer applicants</strong> must satisfy University of California admissions eligibility requirements as well as meeting campus admission selection criteria. Completing the UC transfer admission requirements in English and mathematics by the end of the fall term prior to the fall application quarter makes an applicant more competitive for admission to UCSB. <strong><u>All admission requirements must be completed by the end of spring prior to transfer.</u></strong> For more information on UC admissions eligibility requirements and admission to UCSB, please visit the Admissions website: <a href=\"http://www.admissions.ucsb.edu\" rel=\"noopener noreferrer\" target=\"_blank\">www.admissions.ucsb.edu</a></p><p><br></p><p>This articulation agreement lists course-to-course or sequence-to-sequence substitutions for preparation in the major. <strong>Transfer students are strongly encouraged to complete as many major preparatory courses as possible prior to enrolling at UCSB. <u>Completion of all major preparatory courses is not an admissions requirement, but some majors require certain courses to be completed prior to transfer with a specified GPA.</u> Completion or near completion of major preparatory courses will help students move more efficiently toward graduation after transfer.</strong></p><p><br></p><p>Please note that the course \"equivalencies\" do not necessarily apply to UCSB general education. For information concerning satisfaction of UCSB general education requirements, please refer to the General Education/Breadth articulation agreement.</p><p><br></p><p><strong>Advanced Placement (AP)</strong> and<strong> International Baccalaureate (IB)</strong> exams may or may not be used to meet course requirements, depending on the exam. Please refer to the <a href=\"https://catalog.ucsb.edu/pages/z4bq6o92J2KP8EOUPArd\" rel=\"noopener noreferrer\" target=\"_blank\">AP Chart</a> and <a href=\"https://catalog.ucsb.edu/pages/m1JyxnDW27iJl5r5K2VK\" rel=\"noopener noreferrer\" target=\"_blank\">IB Chart</a> in the <a href=\"https://my.sa.ucsb.edu/catalog/Current/Index.aspx\" rel=\"noopener noreferrer\" target=\"_blank\">UCSB General Catalog</a> for information on how we use AP and IB exams.</p>",
+        "groupId": "3cee7145-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 286659,
+                      "courseTitle": "Survey: Architecture and Planning",
+                      "courseNumber": "6F",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "07bf64ca-04fc-4c1c-a4c8-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 273777,
+                      "courseTitle": "Survey: Contemporary Architecture",
+                      "courseNumber": "6J",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "41c517a3-f6c5-4dd0-a4c9-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 1,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": true,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "Or",
+          "id": "673ae279-c3ab-430d-d375-08ddf0010135",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "1aea7145-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "AREA A",
+        "groupId": "04717445-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "GENERAL INFORMATION FOR ALL MAJORS",
+        "groupId": "1cea7145-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 293536,
+                      "courseTitle": "Introductory Cultural Anthropology",
+                      "courseNumber": "2",
+                      "prefix": "ANTH",
+                      "prefixParentId": 10817,
+                      "prefixDescription": "Anthropology",
+                      "departmentParentId": 758,
+                      "department": "Anthropology",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": [
+                        {
+                          "begin": null,
+                          "beginDate": null,
+                          "beginTermId": null,
+                          "end": null,
+                          "endDate": null,
+                          "endTermId": null,
+                          "pathwayId": 1,
+                          "pathwayName": "Anthropology",
+                          "pathwayCode": "Anthropology",
+                          "expectationId": 2,
+                          "expectationName": "C2-Cultural Anthro",
+                          "subexpectationId": 0,
+                          "subexpectationName": null
+                        }
+                      ]
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "aae6ee5d-4d0c-4e0c-a4ca-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 1,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 286382,
+                      "courseTitle": "Visual Literacy",
+                      "courseNumber": "1A",
+                      "prefix": "ART",
+                      "prefixParentId": 6130,
+                      "prefixDescription": "Art",
+                      "departmentParentId": 1135,
+                      "department": "Art",
+                      "begin": "F2016",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "b7dc2b17-d1bf-42b0-a4cb-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 2,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 296206,
+                      "courseTitle": "Introduction to Environmental Studies",
+                      "courseNumber": "1",
+                      "prefix": "ENV S",
+                      "prefixParentId": 10929,
+                      "prefixDescription": "Environmental Studies",
+                      "departmentParentId": 5311,
+                      "department": "Environmental Studies",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "2ecf0ebc-ae18-41d4-a4cc-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 257258,
+                      "courseTitle": "Introduction to the Social and Cultural Environment",
+                      "courseNumber": "3",
+                      "prefix": "ENV S",
+                      "prefixParentId": 10929,
+                      "prefixDescription": "Environmental Studies",
+                      "departmentParentId": 5311,
+                      "department": "Environmental Studies",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "6a679e6e-7049-4de0-a4cd-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 3,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 257896,
+                      "courseTitle": "People, Place and Environment",
+                      "courseNumber": "5",
+                      "prefix": "GEOG",
+                      "prefixParentId": 10616,
+                      "prefixDescription": "Geography",
+                      "departmentParentId": 6226,
+                      "department": "Geography",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "af070afb-cf87-4ce0-a4ce-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 4,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 257885,
+                      "courseTitle": "Introduction to Sociology",
+                      "courseNumber": "1",
+                      "prefix": "SOC",
+                      "prefixParentId": 9111,
+                      "prefixDescription": "Sociology",
+                      "departmentParentId": 12118,
+                      "department": "Sociology",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": [
+                        {
+                          "begin": null,
+                          "beginDate": null,
+                          "beginTermId": null,
+                          "end": null,
+                          "endDate": null,
+                          "endTermId": null,
+                          "pathwayId": 21,
+                          "pathwayName": "Sociology",
+                          "pathwayCode": "Sociology",
+                          "expectationId": 106,
+                          "expectationName": "C1-Intro Soc.",
+                          "subexpectationId": 0,
+                          "subexpectationName": null
+                        },
+                        {
+                          "begin": null,
+                          "beginDate": null,
+                          "beginTermId": null,
+                          "end": null,
+                          "endDate": null,
+                          "endTermId": null,
+                          "pathwayId": 7,
+                          "pathwayName": "Communication",
+                          "pathwayCode": "Communication",
+                          "expectationId": 33,
+                          "expectationName": "C4-Choose 3 Courses From List",
+                          "subexpectationId": 115,
+                          "subexpectationName": "D-Intro to Sociology"
+                        }
+                      ]
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "8c42d2bb-b990-44be-a4cf-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 5,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 12,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 381030,
+                      "courseTitle": "Rome: The Game",
+                      "courseNumber": "6R",
+                      "prefix": "ARTHIW",
+                      "prefixParentId": 19360,
+                      "prefixDescription": "Art History (Online)",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "Su2025",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "ce62cae1-f7c4-4e25-a4d0-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 357704,
+                      "courseTitle": "Introduction to Museum Studies",
+                      "courseNumber": "5B",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "59293dcc-5f04-40ce-a4d1-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 7,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 287152,
+                      "courseTitle": "Survey: History of Photography",
+                      "courseNumber": "6G",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "30bac2fe-ccfd-4a8b-a4d2-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 293538,
+                      "courseTitle": "Art Survey III: Modern-Contemporary Art",
+                      "courseNumber": "6C",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "743a7f97-e819-4c46-a4d3-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 5,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 269435,
+                      "courseTitle": "Survey: Art of Japan and Korea",
+                      "courseNumber": "6DW",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2006",
+                      "end": "",
+                      "minUnits": 4.0,
+                      "maxUnits": 4.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "fa4df1a6-c48d-4b1f-a4d4-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 9,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 257889,
+                      "courseTitle": "Survey: Islamic Art and Architecture",
+                      "courseNumber": "6K",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "ef432924-da47-449c-a4d5-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 11,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 384167,
+                      "courseTitle": "Survey: Eccentric Images",
+                      "courseNumber": "6M",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "7fa748ff-2d44-47f3-a4d6-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 299484,
+                      "courseTitle": "Survey: History of Art in China",
+                      "courseNumber": "6DS",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "7d36c538-a436-41c8-a4d7-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 257838,
+                      "courseTitle": "Art Survey II: Renaissance-Baroque Art",
+                      "courseNumber": "6B",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "e7604386-c488-4c75-a4d8-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 384163,
+                      "courseTitle": "Survey: Landscape in China",
+                      "courseNumber": "6DL",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2018",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "63b00e7e-590a-4844-a4d9-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 10,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 368280,
+                      "courseTitle": "Playful Spaces: A Cultural History of Games",
+                      "courseNumber": "6L",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "1c064925-4dad-49ce-a4da-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 6,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 354404,
+                      "courseTitle": "Survey: Arts of Africa, Oceania, and Native North America",
+                      "courseNumber": "6E",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "ffcd2060-d301-4eed-a4db-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 8,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 293510,
+                      "courseTitle": "Survey: Arts of the Ancient Americas",
+                      "courseNumber": "6H",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [
+                      {
+                        "course": {
+                          "courseIdentifierParentId": 418036,
+                          "courseTitle": "Survey: Arts of the Ancient Americas",
+                          "courseNumber": "6H",
+                          "prefix": "LAIS",
+                          "prefixParentId": 12737,
+                          "prefixDescription": "Latin American and Iberian Studies",
+                          "departmentParentId": 8320,
+                          "department": "Latin American and Iberian Studies",
+                          "begin": "F2025",
+                          "end": "",
+                          "minUnits": 5.0,
+                          "maxUnits": 5.0,
+                          "pathways": []
+                        }
+                      }
+                    ],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "0875121c-0e55-423d-a4dc-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [
+              {
+                "type": "NFromUnits",
+                "amount": 1.0,
+                "amountQuantifier": "AtLeast",
+                "amountUnitType": "Course",
+                "position": 0,
+                "selectionType": "Complete"
+              }
+            ],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [
+          {
+            "position": 0,
+            "content": "**REFER TO TOP OF AGREEMENT**"
+          }
+        ],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 3.0,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 0.0,
+          "areaType": "None",
+          "id": "2080b751-09e9-4364-d376-08ddf0010135",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "1eea7145-6887-ef11-8474-000d3a37e3b6",
+        "position": 4,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "HISTORY OF ART AND ARCHITECTURE, B.A. - ARCHITECTURE AND ENVIRONMENT EMPHASIS",
+        "groupId": "20ea7145-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "AREA B",
+        "groupId": "42717445-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Please visit the department's website to learn more about this major: <a href=\"http://www.arthistory.ucsb.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">www.arthistory.ucsb.edu </a></p><p><br></p><p><strong>PREPARATION FOR THE MAJOR: </strong></p><p><br></p><p>A. <strong>Art History 5A</strong> and <strong>Art History</strong> 6F or 6J</p><p>B. Three courses from <strong>Art History</strong> 5B, 6B-C-DL-DS-DW-E-G-H-K-L-M, W 6R; <strong>Anthropology</strong> 2; <strong>Art</strong> 1A; <strong>Environmental Studies</strong> 1, 3; <strong>Geography</strong> 5; <strong>Sociology</strong> 1</p><p><br></p><p><strong>**At least one course in Area B must come from Art History.**</strong> </p><p><br></p><p><em>(Transfer applicants do not need to complete all Preparation for the Major in order to be admitted, but should complete as much as possible before transferring so they will be prepared to progress in the major at UCSB.)</em></p>",
+        "groupId": "22ea7145-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": true,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 294801,
+                      "courseTitle": "Introduction to Architecture and Environment",
+                      "courseNumber": "5A",
+                      "prefix": "ARTHI",
+                      "prefixParentId": 8193,
+                      "prefixDescription": "Art History",
+                      "departmentParentId": 1208,
+                      "department": "History of Art and Architecture",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 5.0,
+                      "maxUnits": 5.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "e1224e47-1f0c-4c35-a4de-08ddf0010138",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "3bb5e305-5440-4be4-d377-08ddf0010135",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "24ea7145-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "Requirements"
+      }
+    ],
+    "articulations": [
+      {
+        "templateCellId": "07bf64ca-04fc-4c1c-a4c8-08ddf0010138",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 286659,
+            "courseTitle": "Survey: Architecture and Planning",
+            "courseNumber": "6F",
+            "prefix": "ARTHI",
+            "prefixParentId": 8193,
+            "prefixDescription": "Art History",
+            "departmentParentId": 1208,
+            "department": "History of Art and Architecture",
+            "begin": "F2024",
+            "end": "",
+            "minUnits": 5.0,
+            "maxUnits": 5.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 254925,
+                    "courseTitle": "Architecture Past and Present",
+                    "courseNumber": "1B",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "aae6ee5d-4d0c-4e0c-a4ca-08ddf0010138",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 293536,
+            "courseTitle": "Introductory Cultural Anthropology",
+            "courseNumber": "2",
+            "prefix": "ANTH",
+            "prefixParentId": 10817,
+            "prefixDescription": "Anthropology",
+            "departmentParentId": 758,
+            "department": "Anthropology",
+            "begin": "F2024",
+            "end": "",
+            "minUnits": 5.0,
+            "maxUnits": 5.0,
+            "pathways": [
+              {
+                "begin": null,
+                "beginDate": null,
+                "beginTermId": null,
+                "end": null,
+                "endDate": null,
+                "endTermId": null,
+                "pathwayId": 1,
+                "pathwayName": "Anthropology",
+                "pathwayCode": "Anthropology",
+                "expectationId": 2,
+                "expectationName": "C2-Cultural Anthro",
+                "subexpectationId": 0,
+                "subexpectationName": null
+              }
+            ]
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 282442,
+                    "courseTitle": "Cultural Anthropology",
+                    "courseNumber": "2",
+                    "prefix": "ANTH",
+                    "prefixParentId": 10801,
+                    "prefixDescription": "Anthropology",
+                    "departmentParentId": 749,
+                    "department": "Anthropology",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 274005,
+                    "courseTitle": "Cultural Anthropology - HONORS",
+                    "courseNumber": "2H",
+                    "prefix": "ANTH",
+                    "prefixParentId": 10801,
+                    "prefixDescription": "Anthropology",
+                    "departmentParentId": 749,
+                    "department": "Anthropology",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "5cc44471-9dd8-4a66-714a-08ddf00194d8",
+                "sendingArticulationId": "40029087-cfd7-476a-4989-08ddf0013b2b",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "2ecf0ebc-ae18-41d4-a4cc-08ddf0010138",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 296206,
+            "courseTitle": "Introduction to Environmental Studies",
+            "courseNumber": "1",
+            "prefix": "ENV S",
+            "prefixParentId": 10929,
+            "prefixDescription": "Environmental Studies",
+            "departmentParentId": 5311,
+            "department": "Environmental Studies",
+            "begin": "F2024",
+            "end": "",
+            "minUnits": 5.0,
+            "maxUnits": 5.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 289208,
+                    "courseTitle": "Introduction to Environmental Studies",
+                    "courseNumber": "1",
+                    "prefix": "E S",
+                    "prefixParentId": 10925,
+                    "prefixDescription": "Environmental Studies",
+                    "departmentParentId": 5301,
+                    "department": "Environmental Studies",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 296117,
+                    "courseTitle": "Introduction to Sustainability",
+                    "courseNumber": "2",
+                    "prefix": "E S",
+                    "prefixParentId": 10925,
+                    "prefixDescription": "Environmental Studies",
+                    "departmentParentId": 5301,
+                    "department": "Environmental Studies",
+                    "begin": "F2019",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "fdaa556c-c2da-4fe1-6f37-08ddf00194d8",
+                "sendingArticulationId": "d9cbc5cd-c7a7-4551-383d-08ddf0013b2b",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "af070afb-cf87-4ce0-a4ce-08ddf0010138",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 257896,
+            "courseTitle": "People, Place and Environment",
+            "courseNumber": "5",
+            "prefix": "GEOG",
+            "prefixParentId": 10616,
+            "prefixDescription": "Geography",
+            "departmentParentId": 6226,
+            "department": "Geography",
+            "begin": "F2024",
+            "end": "",
+            "minUnits": 5.0,
+            "maxUnits": 5.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 298844,
+                    "courseTitle": "Cultural Geography",
+                    "courseNumber": "4",
+                    "prefix": "GEO",
+                    "prefixParentId": 10601,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 6120,
+                    "department": "Geography",
+                    "begin": "F2004",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "8c42d2bb-b990-44be-a4cf-08ddf0010138",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 257885,
+            "courseTitle": "Introduction to Sociology",
+            "courseNumber": "1",
+            "prefix": "SOC",
+            "prefixParentId": 9111,
+            "prefixDescription": "Sociology",
+            "departmentParentId": 12118,
+            "department": "Sociology",
+            "begin": "F2024",
+            "end": "",
+            "minUnits": 5.0,
+            "maxUnits": 5.0,
+            "pathways": [
+              {
+                "begin": null,
+                "beginDate": null,
+                "beginTermId": null,
+                "end": null,
+                "endDate": null,
+                "endTermId": null,
+                "pathwayId": 21,
+                "pathwayName": "Sociology",
+                "pathwayCode": "Sociology",
+                "expectationId": 106,
+                "expectationName": "C1-Intro Soc.",
+                "subexpectationId": 0,
+                "subexpectationName": null
+              },
+              {
+                "begin": null,
+                "beginDate": null,
+                "beginTermId": null,
+                "end": null,
+                "endDate": null,
+                "endTermId": null,
+                "pathwayId": 7,
+                "pathwayName": "Communication",
+                "pathwayCode": "Communication",
+                "expectationId": 33,
+                "expectationName": "C4-Choose 3 Courses From List",
+                "subexpectationId": 115,
+                "subexpectationName": "D-Intro to Sociology"
+              }
+            ]
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 254964,
+                    "courseTitle": "Introduction to Sociology",
+                    "courseNumber": "1",
+                    "prefix": "SOC",
+                    "prefixParentId": 9095,
+                    "prefixDescription": "Sociology",
+                    "departmentParentId": 12108,
+                    "department": "Sociology",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "743a7f97-e819-4c46-a4d3-08ddf0010138",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 293538,
+            "courseTitle": "Art Survey III: Modern-Contemporary Art",
+            "courseNumber": "6C",
+            "prefix": "ARTHI",
+            "prefixParentId": 8193,
+            "prefixDescription": "Art History",
+            "departmentParentId": 1208,
+            "department": "History of Art and Architecture",
+            "begin": "F2024",
+            "end": "",
+            "minUnits": 5.0,
+            "maxUnits": 5.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 281454,
+                    "courseTitle": "History of Art: Europe from the Baroque Period through Impressionism",
+                    "courseNumber": "2C",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "fa4df1a6-c48d-4b1f-a4d4-08ddf0010138",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 269435,
+            "courseTitle": "Survey: Art of Japan and Korea",
+            "courseNumber": "6DW",
+            "prefix": "ARTHI",
+            "prefixParentId": 8193,
+            "prefixDescription": "Art History",
+            "departmentParentId": 1208,
+            "department": "History of Art and Architecture",
+            "begin": "F2006",
+            "end": "",
+            "minUnits": 4.0,
+            "maxUnits": 4.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "cae3bfbf-611b-43b7-0718-08ddf0013bcd",
+                        "publishedCourseIdentifierYearTermId": null,
+                        "courseIdentifierParentId": 353552,
+                        "courseTitle": "History of Art: Arts of Asia",
+                        "courseNumber": "40",
+                        "prefix": "ASAM",
+                        "prefixParentId": 16555,
+                        "prefixDescription": "Asian American and Asian Studies",
+                        "departmentParentId": 13706,
+                        "department": "Asian American and Asian Studies",
+                        "begin": "F2021",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 353553,
+                    "courseTitle": "History of Art: Arts of Asia",
+                    "courseNumber": "2G",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "ff85a717-ac34-442c-0719-08ddf0013bcd",
+                        "publishedCourseIdentifierYearTermId": null,
+                        "courseIdentifierParentId": 353553,
+                        "courseTitle": "History of Art: Arts of Asia",
+                        "courseNumber": "2G",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2016",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 353552,
+                    "courseTitle": "History of Art: Arts of Asia",
+                    "courseNumber": "40",
+                    "prefix": "ASAM",
+                    "prefixParentId": 16555,
+                    "prefixDescription": "Asian American and Asian Studies",
+                    "departmentParentId": 13706,
+                    "department": "Asian American and Asian Studies",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "1bc3d20b-a862-44be-6d62-08ddf00194d8",
+                "sendingArticulationId": "44e16312-79cb-4f2a-2911-08ddf0013b2b",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "e7604386-c488-4c75-a4d8-08ddf0010138",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 257838,
+            "courseTitle": "Art Survey II: Renaissance-Baroque Art",
+            "courseNumber": "6B",
+            "prefix": "ARTHI",
+            "prefixParentId": 8193,
+            "prefixDescription": "Art History",
+            "departmentParentId": 1208,
+            "department": "History of Art and Architecture",
+            "begin": "F2024",
+            "end": "",
+            "minUnits": 5.0,
+            "maxUnits": 5.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 253849,
+                    "courseTitle": "History of Art: Europe During the Middle Ages and the Renaissance",
+                    "courseNumber": "2B",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "0875121c-0e55-423d-a4dc-08ddf0010138",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 293510,
+            "courseTitle": "Survey: Arts of the Ancient Americas",
+            "courseNumber": "6H",
+            "prefix": "ARTHI",
+            "prefixParentId": 8193,
+            "prefixDescription": "Art History",
+            "departmentParentId": 1208,
+            "department": "History of Art and Architecture",
+            "begin": "F2024",
+            "end": "",
+            "minUnits": 5.0,
+            "maxUnits": 5.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [
+            {
+              "courseIdentifierParentId": 418036,
+              "courseTitle": "Survey: Arts of the Ancient Americas",
+              "courseNumber": "6H",
+              "prefix": "LAIS",
+              "prefixParentId": 12737,
+              "prefixDescription": "Latin American and Iberian Studies",
+              "departmentParentId": 8320,
+              "department": "Latin American and Iberian Studies",
+              "begin": "F2025",
+              "end": "",
+              "minUnits": 5.0,
+              "maxUnits": 5.0,
+              "pathways": []
+            }
+          ],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "e37c24e8-2a7a-4305-0680-08ddf0013bcd",
+                        "publishedCourseIdentifierYearTermId": null,
+                        "courseIdentifierParentId": 266303,
+                        "courseTitle": "History of Art: Native Arts of Mesoamerica and the Andes",
+                        "courseNumber": "2H",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2016",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 266302,
+                    "courseTitle": "History of Art: Native Arts of Mesoamerica and the Andes",
+                    "courseNumber": "21",
+                    "prefix": "INTL",
+                    "prefixParentId": 767,
+                    "prefixDescription": "International Studies",
+                    "departmentParentId": 7709,
+                    "department": "International Studies",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "bd8b2d75-9902-45bd-0681-08ddf0013bcd",
+                        "publishedCourseIdentifierYearTermId": null,
+                        "courseIdentifierParentId": 266302,
+                        "courseTitle": "History of Art: Native Arts of Mesoamerica and the Andes",
+                        "courseNumber": "21",
+                        "prefix": "INTL",
+                        "prefixParentId": 767,
+                        "prefixDescription": "International Studies",
+                        "departmentParentId": 7709,
+                        "department": "International Studies",
+                        "begin": "F2021",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 266303,
+                    "courseTitle": "History of Art: Native Arts of Mesoamerica and the Andes",
+                    "courseNumber": "2H",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "ee7ca31f-f7f0-4bf6-6b22-08ddf00194d8",
+                "sendingArticulationId": "d27431df-8a20-47b1-1908-08ddf0013b2b",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      }
+    ],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

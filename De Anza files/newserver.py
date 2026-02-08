@@ -51,7 +51,7 @@ def find_uc_root(start_dir: str) -> str:
         candidate = os.path.join(cur, "uc_to_deanza")
         if os.path.isdir(candidate):
             return candidate
-        parent = os.path.dirnase(cur)
+        parent = os.path.dirname(cur)
         if parent == cur:
             break
         cur = parent

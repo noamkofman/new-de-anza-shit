@@ -1,0 +1,1128 @@
+{
+  "result": {
+    "name": "Physics B.S.",
+    "type": "Major",
+    "publishDate": "2025-11-17T23:49:58.6589125",
+    "receivingInstitution": "{\"id\":24,\"code\":\"CSUSTAN \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"California State University, Stanislaus\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "GeneralText",
+        "content": "<p>This agreement displays all<strong> lower-division courses required in the major</strong>: Stanislaus State courses or requirements on the left, approved (articulated) transfer courses on the right.</p><p><br></p><p><strong>Helpful resources: </strong></p><p><a href=\"https://catalog.csustan.edu/index.php\" rel=\"noopener noreferrer\" target=\"_blank\">Academic Catalog</a></p><p><a href=\"https://www.csustan.edu/undergrad/transfer-admission\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Admissions</a></p><p><br></p><p>Questions regarding this agreement may be directed to the Stanislaus State Articulation Analyst. Please visit the <a href=\"https://www.csustan.edu/articulation\" rel=\"noopener noreferrer\" target=\"_blank\">Stanislaus State Articulation Website</a> for contact information.</p>",
+        "groupId": "97046645-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Series",
+                    "series": {
+                      "conjunction": "And",
+                      "name": "CHEM 1110, CHEM 1112",
+                      "courses": [
+                        {
+                          "id": "c13c03db-5489-446c-9371-08ddcef9a46f",
+                          "position": 0,
+                          "courseIdentifierParentId": 301266,
+                          "courseTitle": "General Chemistry II",
+                          "courseNumber": "1110",
+                          "prefix": "CHEM",
+                          "prefixParentId": 3764,
+                          "prefixDescription": "Chemistry",
+                          "departmentParentId": 2284,
+                          "department": "Chemistry",
+                          "begin": "F2009",
+                          "end": "",
+                          "minUnits": 4.0,
+                          "maxUnits": 4.0,
+                          "pathways": []
+                        },
+                        {
+                          "id": "51a885bd-e3b1-4642-9372-08ddcef9a46f",
+                          "position": 1,
+                          "courseIdentifierParentId": 1161,
+                          "courseTitle": "General Chemistry II Laboratory",
+                          "courseNumber": "1112",
+                          "prefix": "CHEM",
+                          "prefixParentId": 3764,
+                          "prefixDescription": "Chemistry",
+                          "departmentParentId": 2284,
+                          "department": "Chemistry",
+                          "begin": "F2009",
+                          "end": "",
+                          "minUnits": 1.0,
+                          "maxUnits": 1.0,
+                          "pathways": []
+                        }
+                      ],
+                      "seriesPathways": []
+                    },
+                    "requisites": [],
+                    "visibleCrossListedCourses": [],
+                    "seriesAttributes": [],
+                    "courseAttributes": [],
+                    "id": "5dc07456-5f7e-4645-266b-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Series",
+                    "series": {
+                      "conjunction": "And",
+                      "name": "CHEM 1100, CHEM 1102",
+                      "courses": [
+                        {
+                          "id": "9a52724b-3e5a-4a94-9373-08ddcef9a46f",
+                          "position": 0,
+                          "courseIdentifierParentId": 297797,
+                          "courseTitle": "General Chemistry I",
+                          "courseNumber": "1100",
+                          "prefix": "CHEM",
+                          "prefixParentId": 3764,
+                          "prefixDescription": "Chemistry",
+                          "departmentParentId": 2284,
+                          "department": "Chemistry",
+                          "begin": "F2009",
+                          "end": "",
+                          "minUnits": 4.0,
+                          "maxUnits": 4.0,
+                          "pathways": []
+                        },
+                        {
+                          "id": "ecc8448c-9b28-41a3-9374-08ddcef9a46f",
+                          "position": 1,
+                          "courseIdentifierParentId": 1165,
+                          "courseTitle": "General Chemistry I Laboratory",
+                          "courseNumber": "1102",
+                          "prefix": "CHEM",
+                          "prefixParentId": 3764,
+                          "prefixDescription": "Chemistry",
+                          "departmentParentId": 2284,
+                          "department": "Chemistry",
+                          "begin": "F2009",
+                          "end": "",
+                          "minUnits": 1.0,
+                          "maxUnits": 1.0,
+                          "pathways": []
+                        }
+                      ],
+                      "seriesPathways": []
+                    },
+                    "requisites": [],
+                    "visibleCrossListedCourses": [],
+                    "seriesAttributes": [],
+                    "courseAttributes": [],
+                    "id": "52bab3f9-3fb6-44c5-266c-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 276399,
+                      "courseTitle": "Multivariate Calculus",
+                      "courseNumber": "2410",
+                      "prefix": "MATH",
+                      "prefixParentId": 9930,
+                      "prefixDescription": "Mathematics",
+                      "departmentParentId": 8965,
+                      "department": "Mathematics",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 4.0,
+                      "maxUnits": 4.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "924ce27c-157a-4e59-266d-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 276401,
+                      "courseTitle": "Calculus II",
+                      "courseNumber": "1420",
+                      "prefix": "MATH",
+                      "prefixParentId": 9930,
+                      "prefixDescription": "Mathematics",
+                      "departmentParentId": 8965,
+                      "department": "Mathematics",
+                      "begin": "F1993",
+                      "end": "",
+                      "minUnits": 4.0,
+                      "maxUnits": 4.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "8095621a-2f06-4488-266e-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 351926,
+                      "courseTitle": "Calculus I",
+                      "courseNumber": "1410",
+                      "prefix": "MATH",
+                      "prefixParentId": 9930,
+                      "prefixDescription": "Mathematics",
+                      "departmentParentId": 8965,
+                      "department": "Mathematics",
+                      "begin": "F1993",
+                      "end": "",
+                      "minUnits": 4.0,
+                      "maxUnits": 4.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "b0657131-02d0-42d2-266f-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 1,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Series",
+                    "series": {
+                      "conjunction": "And",
+                      "name": "PHYS 2250, PHYS 2252, PHYS 2260, PHYS 2262",
+                      "courses": [
+                        {
+                          "id": "e53a9fbd-1f2f-4f4e-936b-08ddcef9a46f",
+                          "position": 0,
+                          "courseIdentifierParentId": 276390,
+                          "courseTitle": "General Physics I",
+                          "courseNumber": "2250",
+                          "prefix": "PHYS",
+                          "prefixParentId": 203,
+                          "prefixDescription": "Physics",
+                          "departmentParentId": 10762,
+                          "department": "Physics",
+                          "begin": "F1993",
+                          "end": "",
+                          "minUnits": 4.0,
+                          "maxUnits": 4.0,
+                          "pathways": []
+                        },
+                        {
+                          "id": "bd0e2649-988e-4f76-936c-08ddcef9a46f",
+                          "position": 1,
+                          "courseIdentifierParentId": 26844,
+                          "courseTitle": "General Physics I Laboratory",
+                          "courseNumber": "2252",
+                          "prefix": "PHYS",
+                          "prefixParentId": 203,
+                          "prefixDescription": "Physics",
+                          "departmentParentId": 10762,
+                          "department": "Physics",
+                          "begin": "F1999",
+                          "end": "",
+                          "minUnits": 1.0,
+                          "maxUnits": 1.0,
+                          "pathways": []
+                        },
+                        {
+                          "id": "e4c927c0-4fe8-4f57-936d-08ddcef9a46f",
+                          "position": 2,
+                          "courseIdentifierParentId": 276392,
+                          "courseTitle": "General Physics II",
+                          "courseNumber": "2260",
+                          "prefix": "PHYS",
+                          "prefixParentId": 203,
+                          "prefixDescription": "Physics",
+                          "departmentParentId": 10762,
+                          "department": "Physics",
+                          "begin": "F1998",
+                          "end": "",
+                          "minUnits": 4.0,
+                          "maxUnits": 4.0,
+                          "pathways": []
+                        },
+                        {
+                          "id": "7fedd8b5-c082-4804-936e-08ddcef9a46f",
+                          "position": 3,
+                          "courseIdentifierParentId": 26861,
+                          "courseTitle": "General Physics II Laboratory",
+                          "courseNumber": "2262",
+                          "prefix": "PHYS",
+                          "prefixParentId": 203,
+                          "prefixDescription": "Physics",
+                          "departmentParentId": 10762,
+                          "department": "Physics",
+                          "begin": "F1999",
+                          "end": "",
+                          "minUnits": 1.0,
+                          "maxUnits": 1.0,
+                          "pathways": []
+                        }
+                      ],
+                      "seriesPathways": []
+                    },
+                    "requisites": [],
+                    "visibleCrossListedCourses": [],
+                    "seriesAttributes": [],
+                    "courseAttributes": [],
+                    "id": "704c7db0-7195-49dd-2670-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 389813,
+                      "courseTitle": "Introduction to Scientific Computing",
+                      "courseNumber": "1024",
+                      "prefix": "PHYS",
+                      "prefixParentId": 203,
+                      "prefixDescription": "Physics",
+                      "departmentParentId": 10762,
+                      "department": "Physics",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "9cd6e9bc-433a-4328-2671-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 2,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "aeefa35b-23ad-4d6a-66ee-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "b9e57145-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "About the Major",
+        "groupId": "2c117745-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "General Information",
+        "groupId": "363a7445-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "About major requirements",
+        "groupId": "9e927645-6887-ef11-8474-000d3a37e3b6",
+        "position": 4,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "LOWER DIVISION PREREQUISITES",
+        "groupId": "8b007945-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralText",
+        "content": "No courses graded Credit/No Credit may be counted towards the major except for eight units graded exclusively Credit/No Credit.",
+        "groupId": "30027045-6887-ef11-8474-000d3a37e3b6",
+        "position": 5,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>The Physics curriculum gives students a thorough understanding of the fundamentals and modern applications of physics. The Bachelor of Science program prepares the student for graduate school, a career in scientific research and development, or industrial work. It is also intended for students preparing for interdisciplinary studies at the graduate level in fields such as astronomy and astrophysics, atmospheric science, biophysics, engineering, environmental science, geophysics, or physical oceanography.</p><p><br></p><p>A Physics major may complete additional requirements in the sciences and mathematics to qualify for a concentration in Environmental Sciences. This program requires study in biological sciences, chemistry, computer science, mathematics, and physical sciences, along with an environmental seminar and investigation of an environmentally related problem. Further details are found in the <a href=\"https://catalog.csustan.edu/preview_program.php?catoid=35&amp;poid=7865\" rel=\"noopener noreferrer\" target=\"_blank\">Environmental Sciences</a> section of the Academic Catalog.</p><p><br></p><p>View information for the <a href=\"https://catalog.csustan.edu/preview_entity.php?catoid=35&amp;ent_oid=1732\" rel=\"noopener noreferrer\" target=\"_blank\">Department of Physics, Physical Sciences, and Geology</a>, including Learning Objectives for the department and its programs.</p>",
+        "groupId": "b2f47645-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "General"
+      }
+    ],
+    "articulations": [
+      {
+        "templateCellId": "924ce27c-157a-4e59-266d-08ddcef9aed6",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 276399,
+            "courseTitle": "Multivariate Calculus",
+            "courseNumber": "2410",
+            "prefix": "MATH",
+            "prefixParentId": 9930,
+            "prefixDescription": "Mathematics",
+            "departmentParentId": 8965,
+            "department": "Mathematics",
+            "begin": "F1998",
+            "end": "",
+            "minUnits": 4.0,
+            "maxUnits": 4.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 359110,
+                    "courseTitle": "Calculus III",
+                    "courseNumber": "1C",
+                    "prefix": "MATH",
+                    "prefixParentId": 10025,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 9040,
+                    "department": "Mathematics",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 302624,
+                    "courseTitle": "Calculus IV",
+                    "courseNumber": "1D",
+                    "prefix": "MATH",
+                    "prefixParentId": 10025,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 9040,
+                    "department": "Mathematics",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 309559,
+                    "courseTitle": "Calculus III - HONORS",
+                    "courseNumber": "1CH",
+                    "prefix": "MATH",
+                    "prefixParentId": 10025,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 9040,
+                    "department": "Mathematics",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 309560,
+                    "courseTitle": "Calculus IV - HONORS",
+                    "courseNumber": "1DH",
+                    "prefix": "MATH",
+                    "prefixParentId": 10025,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 9040,
+                    "department": "Mathematics",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "b1d3d796-7cce-46d2-88d6-08de00f70b2d",
+                "sendingArticulationId": "de5e584c-8b5c-4105-87ab-08ddcef9d517",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "5dc07456-5f7e-4645-266b-08ddcef9aed6",
+        "articulation": {
+          "type": "Series",
+          "series": {
+            "conjunction": "And",
+            "name": "CHEM 1110, CHEM 1112",
+            "courses": [
+              {
+                "id": "c13c03db-5489-446c-9371-08ddcef9a46f",
+                "position": 0,
+                "courseIdentifierParentId": 301266,
+                "courseTitle": "General Chemistry II",
+                "courseNumber": "1110",
+                "prefix": "CHEM",
+                "prefixParentId": 3764,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2284,
+                "department": "Chemistry",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4.0,
+                "maxUnits": 4.0,
+                "pathways": []
+              },
+              {
+                "id": "51a885bd-e3b1-4642-9372-08ddcef9a46f",
+                "position": 1,
+                "courseIdentifierParentId": 1161,
+                "courseTitle": "General Chemistry II Laboratory",
+                "courseNumber": "1112",
+                "prefix": "CHEM",
+                "prefixParentId": 3764,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2284,
+                "department": "Chemistry",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 1.0,
+                "maxUnits": 1.0,
+                "pathways": []
+              }
+            ],
+            "seriesPathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "seriesAttributes": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 358342,
+                    "courseTitle": "General Chemistry II",
+                    "courseNumber": "1B",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 1,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 359228,
+                    "courseTitle": "General Chemistry I",
+                    "courseNumber": "1A",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 306955,
+                    "courseTitle": "General Chemistry III",
+                    "courseNumber": "1C",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 2,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 368022,
+                    "courseTitle": "General Chemistry I - HONORS",
+                    "courseNumber": "1AH",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 368023,
+                    "courseTitle": "General Chemistry II - HONORS",
+                    "courseNumber": "1BH",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 1,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 368024,
+                    "courseTitle": "General Chemistry III - HONORS",
+                    "courseNumber": "1CH",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 2,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "46565aaf-fdfb-4ac7-88d3-08de00f70b2d",
+                "sendingArticulationId": "af0bc52a-9052-4955-6f11-08ddcef9d517",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Series",
+          "seriesAttributes": [],
+          "seriesCourseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "52bab3f9-3fb6-44c5-266c-08ddcef9aed6",
+        "articulation": {
+          "type": "Series",
+          "series": {
+            "conjunction": "And",
+            "name": "CHEM 1100, CHEM 1102",
+            "courses": [
+              {
+                "id": "9a52724b-3e5a-4a94-9373-08ddcef9a46f",
+                "position": 0,
+                "courseIdentifierParentId": 297797,
+                "courseTitle": "General Chemistry I",
+                "courseNumber": "1100",
+                "prefix": "CHEM",
+                "prefixParentId": 3764,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2284,
+                "department": "Chemistry",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 4.0,
+                "maxUnits": 4.0,
+                "pathways": []
+              },
+              {
+                "id": "ecc8448c-9b28-41a3-9374-08ddcef9a46f",
+                "position": 1,
+                "courseIdentifierParentId": 1165,
+                "courseTitle": "General Chemistry I Laboratory",
+                "courseNumber": "1102",
+                "prefix": "CHEM",
+                "prefixParentId": 3764,
+                "prefixDescription": "Chemistry",
+                "departmentParentId": 2284,
+                "department": "Chemistry",
+                "begin": "F2009",
+                "end": "",
+                "minUnits": 1.0,
+                "maxUnits": 1.0,
+                "pathways": []
+              }
+            ],
+            "seriesPathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "seriesAttributes": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 358342,
+                    "courseTitle": "General Chemistry II",
+                    "courseNumber": "1B",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 1,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 359228,
+                    "courseTitle": "General Chemistry I",
+                    "courseNumber": "1A",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 368022,
+                    "courseTitle": "General Chemistry I - HONORS",
+                    "courseNumber": "1AH",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 368023,
+                    "courseTitle": "General Chemistry II - HONORS",
+                    "courseNumber": "1BH",
+                    "prefix": "CHEM",
+                    "prefixParentId": 3854,
+                    "prefixDescription": "Chemistry",
+                    "departmentParentId": 2358,
+                    "department": "Chemistry",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 295,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "64d1bb85-881e-4697-88d0-08de00f70b2d",
+                "sendingArticulationId": "d80332d8-2247-4147-6d71-08ddcef9d517",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Series",
+          "seriesAttributes": [],
+          "seriesCourseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "704c7db0-7195-49dd-2670-08ddcef9aed6",
+        "articulation": {
+          "type": "Series",
+          "series": {
+            "conjunction": "And",
+            "name": "PHYS 2250, PHYS 2252, PHYS 2260, PHYS 2262",
+            "courses": [
+              {
+                "id": "e53a9fbd-1f2f-4f4e-936b-08ddcef9a46f",
+                "position": 0,
+                "courseIdentifierParentId": 276390,
+                "courseTitle": "General Physics I",
+                "courseNumber": "2250",
+                "prefix": "PHYS",
+                "prefixParentId": 203,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10762,
+                "department": "Physics",
+                "begin": "F1993",
+                "end": "",
+                "minUnits": 4.0,
+                "maxUnits": 4.0,
+                "pathways": []
+              },
+              {
+                "id": "bd0e2649-988e-4f76-936c-08ddcef9a46f",
+                "position": 1,
+                "courseIdentifierParentId": 26844,
+                "courseTitle": "General Physics I Laboratory",
+                "courseNumber": "2252",
+                "prefix": "PHYS",
+                "prefixParentId": 203,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10762,
+                "department": "Physics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1.0,
+                "maxUnits": 1.0,
+                "pathways": []
+              },
+              {
+                "id": "e4c927c0-4fe8-4f57-936d-08ddcef9a46f",
+                "position": 2,
+                "courseIdentifierParentId": 276392,
+                "courseTitle": "General Physics II",
+                "courseNumber": "2260",
+                "prefix": "PHYS",
+                "prefixParentId": 203,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10762,
+                "department": "Physics",
+                "begin": "F1998",
+                "end": "",
+                "minUnits": 4.0,
+                "maxUnits": 4.0,
+                "pathways": []
+              },
+              {
+                "id": "7fedd8b5-c082-4804-936e-08ddcef9a46f",
+                "position": 3,
+                "courseIdentifierParentId": 26861,
+                "courseTitle": "General Physics II Laboratory",
+                "courseNumber": "2262",
+                "prefix": "PHYS",
+                "prefixParentId": 203,
+                "prefixDescription": "Physics",
+                "departmentParentId": 10762,
+                "department": "Physics",
+                "begin": "F1999",
+                "end": "",
+                "minUnits": 1.0,
+                "maxUnits": 1.0,
+                "pathways": []
+              }
+            ],
+            "seriesPathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "seriesAttributes": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 305519,
+                    "courseTitle": "Physics for Scientists and Engineers: Mechanics",
+                    "courseNumber": "4A",
+                    "prefix": "PHYS",
+                    "prefixParentId": 300,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10814,
+                    "department": "Physics",
+                    "begin": "F1998",
+                    "end": "",
+                    "minUnits": 6.0,
+                    "maxUnits": 6.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 191,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 276901,
+                    "courseTitle": "Physics for Scientists and Engineers: Electricity and Magnetism",
+                    "courseNumber": "4B",
+                    "prefix": "PHYS",
+                    "prefixParentId": 300,
+                    "prefixDescription": "Physics",
+                    "departmentParentId": 10814,
+                    "department": "Physics",
+                    "begin": "F1998",
+                    "end": "",
+                    "minUnits": 6.0,
+                    "maxUnits": 6.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 191,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Series",
+          "seriesAttributes": [],
+          "seriesCourseAttributes": [],
+          "attributes": []
+        }
+      }
+    ],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

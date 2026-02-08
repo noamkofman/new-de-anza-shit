@@ -1,0 +1,1361 @@
+{
+  "result": {
+    "name": "Islamic and Arabic Studies, B.A.",
+    "type": "Major",
+    "publishDate": "2025-10-06T22:20:07.3345964",
+    "receivingInstitution": "{\"id\":26,\"code\":\"SDSU    \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"San Diego State University\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "GeneralTitle",
+        "content": "Preparation for the major",
+        "groupId": "5c017045-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "ARABIC STUDIES",
+        "groupId": "bd6f7445-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "Foreign Language requirement",
+        "groupId": "48f87845-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 136932,
+                      "courseTitle": "Introduction to Comparative Politics",
+                      "courseNumber": "103",
+                      "prefix": "POL S",
+                      "prefixParentId": 1914,
+                      "prefixDescription": "Political Science",
+                      "departmentParentId": 10970,
+                      "department": "Political Science",
+                      "begin": "F1994",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "6230652f-5382-4592-1677-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 268828,
+                      "courseTitle": "Intermediate Arabic I",
+                      "courseNumber": "201",
+                      "prefix": "ARAB",
+                      "prefixParentId": 13362,
+                      "prefixDescription": "Arabic",
+                      "departmentParentId": 892,
+                      "department": "Arabic",
+                      "begin": "F2003",
+                      "end": "",
+                      "minUnits": 4.0,
+                      "maxUnits": 4.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "1839ca58-30db-48f2-1678-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 330942,
+                      "courseTitle": "World Religions",
+                      "courseNumber": "101",
+                      "prefix": "REL S",
+                      "prefixParentId": 2126,
+                      "prefixDescription": "Religious Studies",
+                      "departmentParentId": 11674,
+                      "department": "Religious Studies",
+                      "begin": "F1994",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "7dc75986-e627-4115-1679-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 172065,
+                      "courseTitle": "World History",
+                      "courseNumber": "100",
+                      "prefix": "HIST",
+                      "prefixParentId": 2925,
+                      "prefixDescription": "History",
+                      "departmentParentId": 6940,
+                      "department": "History",
+                      "begin": "F1994",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "7ef1c973-fe7d-4d95-167a-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 331045,
+                      "courseTitle": "World History",
+                      "courseNumber": "101",
+                      "prefix": "HIST",
+                      "prefixParentId": 2925,
+                      "prefixDescription": "History",
+                      "departmentParentId": 6940,
+                      "department": "History",
+                      "begin": "F1994",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "e58d5d63-a570-4db9-167b-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "a112b5d0-7a2e-4ab2-a295-08ddd3b241b0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "ace97145-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Due to high demand, admission to SDSU is highly competitive. General admission information is available at: <a href=\"http://arweb.sdsu.edu/es/admissions/transfers/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">http://arweb.sdsu.edu/es/admissions/transfers/index.html</a>.</p>",
+        "groupId": "44987645-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "Students must select either the Arabic studies or Islamic studies specialization to complete preparation for the major.",
+        "groupId": "5b717445-6887-ef11-8474-000d3a37e3b6",
+        "position": 4,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "ISLAMIC STUDIES",
+        "groupId": "76e97645-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralText",
+        "content": "The language requirement is automatically fulfilled through coursework for preparation for the major.",
+        "groupId": "6de97145-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": true,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 331045,
+                      "courseTitle": "World History",
+                      "courseNumber": "101",
+                      "prefix": "HIST",
+                      "prefixParentId": 2925,
+                      "prefixDescription": "History",
+                      "departmentParentId": 6940,
+                      "department": "History",
+                      "begin": "F1994",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "26ba01ac-9558-4495-167c-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 330942,
+                      "courseTitle": "World Religions",
+                      "courseNumber": "101",
+                      "prefix": "REL S",
+                      "prefixParentId": 2126,
+                      "prefixDescription": "Religious Studies",
+                      "departmentParentId": 11674,
+                      "department": "Religious Studies",
+                      "begin": "F1994",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "cc8339b1-7c99-424b-167d-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 268829,
+                      "courseTitle": "Intermediate Arabic II",
+                      "courseNumber": "202",
+                      "prefix": "ARAB",
+                      "prefixParentId": 13362,
+                      "prefixDescription": "Arabic",
+                      "departmentParentId": 892,
+                      "department": "Arabic",
+                      "begin": "F2003",
+                      "end": "",
+                      "minUnits": 4.0,
+                      "maxUnits": 4.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "0f80d393-ddc7-4112-167e-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 268828,
+                      "courseTitle": "Intermediate Arabic I",
+                      "courseNumber": "201",
+                      "prefix": "ARAB",
+                      "prefixParentId": 13362,
+                      "prefixDescription": "Arabic",
+                      "departmentParentId": 892,
+                      "department": "Arabic",
+                      "begin": "F2003",
+                      "end": "",
+                      "minUnits": 4.0,
+                      "maxUnits": 4.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "1a8b9142-4f5d-414b-167f-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 136932,
+                      "courseTitle": "Introduction to Comparative Politics",
+                      "courseNumber": "103",
+                      "prefix": "POL S",
+                      "prefixParentId": 1914,
+                      "prefixDescription": "Political Science",
+                      "departmentParentId": 10970,
+                      "department": "Political Science",
+                      "begin": "F1994",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "b435b48a-0dcc-47ef-1680-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "c696fec6-83b7-4505-a296-08ddd3b241b0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "fefa6f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "Requirements"
+      }
+    ],
+    "articulations": [
+      {
+        "templateCellId": "6230652f-5382-4592-1677-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 136932,
+            "courseTitle": "Introduction to Comparative Politics",
+            "courseNumber": "103",
+            "prefix": "POL S",
+            "prefixParentId": 1914,
+            "prefixDescription": "Political Science",
+            "departmentParentId": 10970,
+            "department": "Political Science",
+            "begin": "F1994",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 290158,
+                    "courseTitle": "Comparative Politics",
+                    "courseNumber": "2",
+                    "prefix": "POLI",
+                    "prefixParentId": 2020,
+                    "prefixDescription": "Political Science",
+                    "departmentParentId": 11018,
+                    "department": "Political Science",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "1839ca58-30db-48f2-1678-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 268828,
+            "courseTitle": "Intermediate Arabic I",
+            "courseNumber": "201",
+            "prefix": "ARAB",
+            "prefixParentId": 13362,
+            "prefixDescription": "Arabic",
+            "departmentParentId": 892,
+            "department": "Arabic",
+            "begin": "F2003",
+            "end": "",
+            "minUnits": 4.0,
+            "maxUnits": 4.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Course Articulated",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "7dc75986-e627-4115-1679-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 330942,
+            "courseTitle": "World Religions",
+            "courseNumber": "101",
+            "prefix": "REL S",
+            "prefixParentId": 2126,
+            "prefixDescription": "Religious Studies",
+            "departmentParentId": 11674,
+            "department": "Religious Studies",
+            "begin": "F1994",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 304876,
+                    "courseTitle": "Introduction to Comparative Religion - HONORS",
+                    "courseNumber": "9H",
+                    "prefix": "HUMI",
+                    "prefixParentId": 6457,
+                    "prefixDescription": "Humanities",
+                    "departmentParentId": 7405,
+                    "department": "Humanities",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 353427,
+                    "courseTitle": "Introduction to Comparative Religion",
+                    "courseNumber": "9",
+                    "prefix": "HUMI",
+                    "prefixParentId": 6457,
+                    "prefixDescription": "Humanities",
+                    "departmentParentId": 7405,
+                    "department": "Humanities",
+                    "begin": "F2004",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "46147702-1792-44a1-12d3-08ddd3b26d80",
+                "sendingArticulationId": "fd13440f-867c-4978-5bc3-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "7ef1c973-fe7d-4d95-167a-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 172065,
+            "courseTitle": "World History",
+            "courseNumber": "100",
+            "prefix": "HIST",
+            "prefixParentId": 2925,
+            "prefixDescription": "History",
+            "departmentParentId": 6940,
+            "department": "History",
+            "begin": "F1994",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 294870,
+                    "courseTitle": "World History from 750 to 1750 CE",
+                    "courseNumber": "3B",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 1,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 294888,
+                    "courseTitle": "World History from Prehistory to 750 CE",
+                    "courseNumber": "3A",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 357849,
+                    "courseTitle": "World History from 750 to 1750 CE - HONORS",
+                    "courseNumber": "3BH",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 1,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 274006,
+                    "courseTitle": "World History from Prehistory to 750 CE - HONORS",
+                    "courseNumber": "3AH",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "b710bb15-da11-442b-1488-08ddd3b26d80",
+                "sendingArticulationId": "b49c3475-e1bc-43bc-83d1-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "e58d5d63-a570-4db9-167b-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 331045,
+            "courseTitle": "World History",
+            "courseNumber": "101",
+            "prefix": "HIST",
+            "prefixParentId": 2925,
+            "prefixDescription": "History",
+            "departmentParentId": 6940,
+            "department": "History",
+            "begin": "F1994",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 289302,
+                    "courseTitle": "World History from 1750 CE to the Present",
+                    "courseNumber": "3C",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 1,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 294870,
+                    "courseTitle": "World History from 750 to 1750 CE",
+                    "courseNumber": "3B",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 357849,
+                    "courseTitle": "World History from 750 to 1750 CE - HONORS",
+                    "courseNumber": "3BH",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 305662,
+                    "courseTitle": "World History from 1750 CE to the Present - Honors",
+                    "courseNumber": "3CH",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "6abc7d57-5934-4494-12ff-08ddd3b26d80",
+                "sendingArticulationId": "8a55302d-b30d-4cbf-6032-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "26ba01ac-9558-4495-167c-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 331045,
+            "courseTitle": "World History",
+            "courseNumber": "101",
+            "prefix": "HIST",
+            "prefixParentId": 2925,
+            "prefixDescription": "History",
+            "departmentParentId": 6940,
+            "department": "History",
+            "begin": "F1994",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 289302,
+                    "courseTitle": "World History from 1750 CE to the Present",
+                    "courseNumber": "3C",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 1,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 294870,
+                    "courseTitle": "World History from 750 to 1750 CE",
+                    "courseNumber": "3B",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 357849,
+                    "courseTitle": "World History from 750 to 1750 CE - HONORS",
+                    "courseNumber": "3BH",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2020",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 305662,
+                    "courseTitle": "World History from 1750 CE to the Present - Honors",
+                    "courseNumber": "3CH",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "6abc7d57-5934-4494-12ff-08ddd3b26d80",
+                "sendingArticulationId": "8a55302d-b30d-4cbf-6032-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "cc8339b1-7c99-424b-167d-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 330942,
+            "courseTitle": "World Religions",
+            "courseNumber": "101",
+            "prefix": "REL S",
+            "prefixParentId": 2126,
+            "prefixDescription": "Religious Studies",
+            "departmentParentId": 11674,
+            "department": "Religious Studies",
+            "begin": "F1994",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 304876,
+                    "courseTitle": "Introduction to Comparative Religion - HONORS",
+                    "courseNumber": "9H",
+                    "prefix": "HUMI",
+                    "prefixParentId": 6457,
+                    "prefixDescription": "Humanities",
+                    "departmentParentId": 7405,
+                    "department": "Humanities",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 353427,
+                    "courseTitle": "Introduction to Comparative Religion",
+                    "courseNumber": "9",
+                    "prefix": "HUMI",
+                    "prefixParentId": 6457,
+                    "prefixDescription": "Humanities",
+                    "departmentParentId": 7405,
+                    "department": "Humanities",
+                    "begin": "F2004",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "46147702-1792-44a1-12d3-08ddd3b26d80",
+                "sendingArticulationId": "fd13440f-867c-4978-5bc3-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "0f80d393-ddc7-4112-167e-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 268829,
+            "courseTitle": "Intermediate Arabic II",
+            "courseNumber": "202",
+            "prefix": "ARAB",
+            "prefixParentId": 13362,
+            "prefixDescription": "Arabic",
+            "departmentParentId": 892,
+            "department": "Arabic",
+            "begin": "F2003",
+            "end": "",
+            "minUnits": 4.0,
+            "maxUnits": 4.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Course Articulated",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "1a8b9142-4f5d-414b-167f-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 268828,
+            "courseTitle": "Intermediate Arabic I",
+            "courseNumber": "201",
+            "prefix": "ARAB",
+            "prefixParentId": 13362,
+            "prefixDescription": "Arabic",
+            "departmentParentId": 892,
+            "department": "Arabic",
+            "begin": "F2003",
+            "end": "",
+            "minUnits": 4.0,
+            "maxUnits": 4.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Course Articulated",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "b435b48a-0dcc-47ef-1680-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 136932,
+            "courseTitle": "Introduction to Comparative Politics",
+            "courseNumber": "103",
+            "prefix": "POL S",
+            "prefixParentId": 1914,
+            "prefixDescription": "Political Science",
+            "departmentParentId": 10970,
+            "department": "Political Science",
+            "begin": "F1994",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 290158,
+                    "courseTitle": "Comparative Politics",
+                    "courseNumber": "2",
+                    "prefix": "POLI",
+                    "prefixParentId": 2020,
+                    "prefixDescription": "Political Science",
+                    "departmentParentId": 11018,
+                    "department": "Political Science",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      }
+    ],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

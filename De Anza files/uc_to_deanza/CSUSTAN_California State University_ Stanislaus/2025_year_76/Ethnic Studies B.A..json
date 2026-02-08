@@ -1,0 +1,274 @@
+{
+  "result": {
+    "name": "Ethnic Studies B.A.",
+    "type": "Major",
+    "publishDate": "2025-11-13T22:43:31.9218137",
+    "receivingInstitution": "{\"id\":24,\"code\":\"CSUSTAN \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"California State University, Stanislaus\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "GeneralText",
+        "content": "<p>This agreement displays all<strong> lower-division courses required in the major</strong>: Stanislaus State courses or requirements on the left, approved (articulated) transfer courses on the right.</p><p><br></p><p><strong>Helpful resources: </strong></p><p><a href=\"https://catalog.csustan.edu/index.php\" rel=\"noopener noreferrer\" target=\"_blank\">Academic Catalog</a></p><p><a href=\"https://www.csustan.edu/undergrad/transfer-admission\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Admissions</a></p><p><br></p><p>Questions regarding this agreement may be directed to the Stanislaus State Articulation Analyst. Please visit the <a href=\"https://www.csustan.edu/articulation\" rel=\"noopener noreferrer\" target=\"_blank\">Stanislaus State Articulation Website</a> for contact information.</p>",
+        "groupId": "97046645-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "About the Major",
+        "groupId": "aaea6545-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 157911,
+                      "courseTitle": "Introduction to Asian American and Pacific Islander Studies",
+                      "courseNumber": "2200",
+                      "prefix": "ETHS",
+                      "prefixParentId": 3998,
+                      "prefixDescription": "Ethnic Studies",
+                      "departmentParentId": 5417,
+                      "department": "Ethnic Studies",
+                      "begin": "F2020",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "2729b5a8-8d77-4496-2582-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 373116,
+                      "courseTitle": "Contemporary Ethnic Studies",
+                      "courseNumber": "2400",
+                      "prefix": "ETHS",
+                      "prefixParentId": 3998,
+                      "prefixDescription": "Ethnic Studies",
+                      "departmentParentId": 5417,
+                      "department": "Ethnic Studies",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "cb7ac4eb-1547-4997-2583-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 157899,
+                      "courseTitle": "Introduction to Black/African American Studies",
+                      "courseNumber": "2000",
+                      "prefix": "ETHS",
+                      "prefixParentId": 3998,
+                      "prefixDescription": "Ethnic Studies",
+                      "departmentParentId": 5417,
+                      "department": "Ethnic Studies",
+                      "begin": "F2019",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "ed1efe22-f4b7-4032-2584-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 171191,
+                      "courseTitle": "Introduction to Chicanx and Latinx Studies",
+                      "courseNumber": "2100",
+                      "prefix": "ETHS",
+                      "prefixParentId": 3998,
+                      "prefixDescription": "Ethnic Studies",
+                      "departmentParentId": 5417,
+                      "department": "Ethnic Studies",
+                      "begin": "F2019",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "48a8e97f-42e8-47dc-2585-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 373115,
+                      "courseTitle": "Introduction to Native American/Indigenous Studies",
+                      "courseNumber": "2300",
+                      "prefix": "ETHS",
+                      "prefixParentId": 3998,
+                      "prefixDescription": "Ethnic Studies",
+                      "departmentParentId": 5417,
+                      "department": "Ethnic Studies",
+                      "begin": "F2019",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "8183a0f6-d38a-4cf2-2586-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [
+              {
+                "type": "NFollowing",
+                "amount": 1.0,
+                "amountUnitType": "Course",
+                "position": 0,
+                "selectionType": "Select"
+              }
+            ],
+            "position": 1,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 251284,
+                      "courseTitle": "Introduction to Ethnic Studies",
+                      "courseNumber": "2050",
+                      "prefix": "ETHS",
+                      "prefixParentId": 3998,
+                      "prefixDescription": "Ethnic Studies",
+                      "departmentParentId": 5417,
+                      "department": "Ethnic Studies",
+                      "begin": "F2018",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "763ef9e0-e086-45cf-2587-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "ea99ffda-2aa8-40fd-66b2-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "fcfa6f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "LOWER DIVISION PREREQUISITES",
+        "groupId": "2e017945-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "General Information",
+        "groupId": "ee3f7445-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Ethnic Studies is a transdisciplinary field that provides critical, intersectional, and decolonial approaches to the study of racism and racialization. The program centers histories, contemporary experiences, and cultural expressions of Native American/Indigenous people, Black/African Americans, Chicano/a/xs-Latino/a/xs, and Asian/Pacific Islander Americans within a regional, national, and/or global context. The Ethnic Studies curriculum, which incorporates scholarship, art, and community engagement, provides students with critical inquiry that advances their analysis of racial privilege and oppression in relation to other axes of power, such as class, gender, sexuality, and legal status. In particular, the major provides students with a critical understanding of structural inequities and social movements in the United States and beyond in order to actively engage personal and collective transformation. A degree in Ethnic Studies is relevant to a variety of fields, including: education, business, law, health, social services, community organizations, and/or the arts. Ethnic Studies faculty are dedicated to producing critical/creative scholarship, teaching and mentoring marginalized students, and working toward social change.</p><p><br></p><p>View information for the <a href=\"https://catalog.csustan.edu/preview_entity.php?catoid=35&amp;ent_oid=1735\" rel=\"noopener noreferrer\" target=\"_blank\">Department of Ethnic Studies</a>.</p>",
+        "groupId": "69fa6f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "General"
+      }
+    ],
+    "articulations": [],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

@@ -1,0 +1,322 @@
+{
+  "reports": [
+    {
+      "key": "76/113/to/24/Major/62ae206e-7cd3-4689-cca9-08ddcef9ae55",
+      "label": "Art Subject Matter Preparation Program",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/9f6d6c5f-fdad-4008-cc94-08ddcef9ae55",
+      "label": "Public Health Promotion B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/02698e98-754d-4c4c-cc9a-08ddcef9ae55",
+      "label": "Art B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/c65e104b-814d-4c2a-cc98-08ddcef9ae55",
+      "label": "Criminal Justice B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/f3f0f926-2b73-4f5f-2e1e-08de1d5ca70e",
+      "label": "CSU General Education",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/5814f3bb-33e6-45f8-cc93-08ddcef9ae55",
+      "label": "Agriculture B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/cfb2d4a1-0a27-46d0-cc97-08ddcef9ae55",
+      "label": "Biological Sciences B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/941de8e2-4e6c-4ca5-ccb1-08ddcef9ae55",
+      "label": "Business Administration B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/991f0e80-f2c3-4c6a-cc86-08ddcef9ae55",
+      "label": "Chemistry B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/db72a881-c5d6-4f5d-cc9b-08ddcef9ae55",
+      "label": "Child Development B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/c9f8c7e1-3502-4df2-ccad-08ddcef9ae55",
+      "label": "Creative Media B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/9122f3db-a482-4bdd-cca7-08ddcef9ae55",
+      "label": "Art History B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/1ed2bd0f-2d52-4d16-cc96-08ddcef9ae55",
+      "label": "Art B.F.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/a0b48707-3d25-4d23-cc90-08ddcef9ae55",
+      "label": "Biological Sciences B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/81e7667b-9460-4ed5-cc8e-08ddcef9ae55",
+      "label": "Computer Science B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/2a75aee8-edf3-4376-cca6-08ddcef9ae55",
+      "label": "English B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/7814478e-1e0c-4c0a-cc82-08ddcef9ae55",
+      "label": "Chemistry B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/e5b0c3d2-0ef1-43bc-cc88-08ddcef9ae55",
+      "label": "English Subject Matter Preparation Program",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/c8d3d9e6-20fa-4422-cc8c-08ddcef9ae55",
+      "label": "Economics B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/50b24bcc-7b6b-48f4-cc8a-08ddcef9ae55",
+      "label": "Anthropology B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/439ba2a3-03f1-4d80-ccab-08ddcef9ae55",
+      "label": "Cognitive Studies B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/12ca7c72-4dc3-4e9d-cca2-08ddcef9ae55",
+      "label": "Communication Studies B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/725599b5-634d-4fcd-cc83-08ddcef9ae55",
+      "label": "Music B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/592bb260-599e-4135-cc91-08ddcef9ae55",
+      "label": "Psychology B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/f0fd1bfa-2251-4c54-cc9e-08ddcef9ae55",
+      "label": "Exercise Science B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/5ad72927-3266-4a53-ccaf-08ddcef9ae55",
+      "label": "Geology B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/02754924-8e9e-447d-cc8b-08ddcef9ae55",
+      "label": "Physical Sciences B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/fc8f30a7-4872-481b-cca1-08ddcef9ae55",
+      "label": "Physics B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/a7ba81a2-9887-4cfd-ccae-08ddcef9ae55",
+      "label": "Nursing B.S., RN to BSN Track",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/6a363661-f80f-4028-cc84-08ddcef9ae55",
+      "label": "Political Science B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/58aed8be-4611-4ad6-cc95-08ddcef9ae55",
+      "label": "Social Sciences B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/dd394348-c011-49bc-cc89-08ddcef9ae55",
+      "label": "Mathematics B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/157fdff7-75bf-4853-cc92-08ddcef9ae55",
+      "label": "Mathematics B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/f16a47b2-1a0d-4cb8-cca5-08ddcef9ae55",
+      "label": "Philosophy B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/99c53bb2-a91d-49cd-ccb0-08ddcef9ae55",
+      "label": "Theatre Arts B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/78f9d02b-a77d-491a-cc87-08ddcef9ae55",
+      "label": "Kinesiology B.A. Subject Matter Preparation Program (Physical Education)",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/ea05bcae-bee7-42c4-cca3-08ddcef9ae55",
+      "label": "Kinesiology B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/8a292ef5-32a9-4493-ccb2-08ddcef9ae55",
+      "label": "Mathematics Subject Matter Preparation Program",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/1138863e-f7c8-4a16-cc8f-08ddcef9ae55",
+      "label": "Ethnic Studies B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/84b0b048-1593-4d74-ccb3-08ddcef9ae55",
+      "label": "Nursing B.S., Pre-Licensure Track",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/60682dcb-28e3-4e70-cc99-08ddcef9ae55",
+      "label": "Geography & Environmental Resources B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/d6d863b7-b8ff-413f-cc9c-08ddcef9ae55",
+      "label": "History B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/b95ce953-5bd4-4016-ccaa-08ddcef9ae55",
+      "label": "Sociology B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/cf313b52-377c-4b90-cc81-08ddcef9ae55",
+      "label": "Musical Theatre B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/6b40ea3f-059e-4e97-cca4-08ddcef9ae55",
+      "label": "Physics B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/14156b98-cb38-4975-cc9d-08ddcef9ae55",
+      "label": "Spanish B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/2d3bb847-adb2-4ea9-cc85-08ddcef9ae55",
+      "label": "Gender Studies B.A.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/713d263e-922e-4c4a-cc9f-08ddcef9ae55",
+      "label": "Liberal Studies B.A. Elementary Teaching Content Preparation Program",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/1cd62b1c-4822-4373-ccac-08ddcef9ae55",
+      "label": "Social Sciences Subject Matter Preparation Program",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/18bd3488-3204-4dca-cca0-08ddcef9ae55",
+      "label": "Leadership Studies B.S.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/f98aec85-91e8-41b5-cca8-08ddcef9ae55",
+      "label": "Music B.M.",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/dc2610a9-32fe-4ccc-cc80-08ddcef9ae55",
+      "label": "Spanish Subject Matter Preparation Program",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    },
+    {
+      "key": "76/113/to/24/Major/4503053e-d81f-43fa-20e8-08de4cac654a",
+      "label": "Health Science B.S. (Hybrid)",
+      "ownerInstitutionId": 24,
+      "type": "Major"
+    }
+  ]
+}

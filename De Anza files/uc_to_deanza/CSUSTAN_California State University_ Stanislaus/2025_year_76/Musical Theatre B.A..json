@@ -1,0 +1,629 @@
+{
+  "result": {
+    "name": "Musical Theatre B.A.",
+    "type": "Major",
+    "publishDate": "2025-11-17T20:47:19.1604584",
+    "receivingInstitution": "{\"id\":24,\"code\":\"CSUSTAN \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"California State University, Stanislaus\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "GeneralTitle",
+        "content": "GENERAL INFORMATION",
+        "groupId": "896e4e98-e4b8-4e36-8c86-0193b29910c7",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>The Musical Theatre B.A. prepares undergraduates as Musical Theatre performers and backstage technicians. The curriculum emphasizes courses that offer hands-on training, with additional courses that provide comprehensive theatre and music theory. These courses are closely related to the department\u2019s four seasonal productions, performed in the 300-seat mainstage theatre, the 80seat studio theatre, and the amphitheater. Graduates of the program will have a broad understanding of all aspects of theatre and theatre production, and the practical ability to be a musical theatre artist, with training in acting, singing, dancing, reading music, script and song analysis, and auditioning. Discipline, a collaborative ethic, and the ability to effectively organize are additional, valuable skills that graduates of the program will gain.</p><p><br></p><p>View information for the <a href=\"https://catalog.csustan.edu/preview_entity.php?catoid=35&amp;ent_oid=1704\" rel=\"noopener noreferrer\" target=\"_blank\">Department of Theatre</a>, including Learning Objectives for the department and its programs.</p>",
+        "groupId": "ff121ce6-932c-4b73-b8fa-0193b29910c7",
+        "position": 3,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>This agreement displays all<strong> lower-division courses required in the major</strong>: Stanislaus State courses or requirements on the left, approved (articulated) transfer courses on the right.</p><p><br></p><p><strong>Helpful resources: </strong></p><p><a href=\"https://catalog.csustan.edu/index.php\" rel=\"noopener noreferrer\" target=\"_blank\">Academic Catalog</a></p><p><a href=\"https://www.csustan.edu/undergrad/transfer-admission\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Admissions</a></p><p><br></p><p>Questions regarding this agreement may be directed to the Stanislaus State Articulation Analyst. Please visit the <a href=\"https://www.csustan.edu/articulation\" rel=\"noopener noreferrer\" target=\"_blank\">Stanislaus State Articulation Website</a> for contact information.</p>",
+        "groupId": "97046645-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "ABOUT THE MAJOR",
+        "groupId": "e94151fd-5f7b-4b44-b41f-0193b29cdaba",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "ADDITIONAL INFORMATION ABOUT MAJOR REQUIREMENTS",
+        "groupId": "c7878a3b-5a94-4ac5-be5c-0193b29fa458",
+        "position": 4,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Students are required to take a <strong>combined </strong>6 units of THEA 2350 - Rehearsal &amp; Performance 1&nbsp;and THEA 4350 - Rehearsal and Performance 2 (1 unit).</p><p><br></p><p>Upon entering the major students are required to complete 2 units of THEA 2350 in 2 semesters (1 unit per semester).</p><p>Upon completion of the lower division sections, students are required to complete 4 sections of THEA 4350 in 4 semesters (1 unit per semester).</p><p><br></p><p>Students may enroll in more than one unit of THEA 4350 in one semester by enrolling in two different sections of the course (upon approval of the instructor or Department Chair).</p><p><br></p><p><strong>NOTE:</strong> If applicable, Transfer students may transfer in 2 units of THEA 2350 and then must be enrolled in THEA 4350 every semester they are in residence in the program and complete 4 units of THEA 4350 to graduate.</p>",
+        "groupId": "df9fb14d-516d-4232-8df5-0193b29fa458",
+        "position": 5,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>To fulfill the University&nbsp;120-unit graduation requirement, students who major in&nbsp;Musical Theatre&nbsp;<em>typically</em>&nbsp;need to complete twelve (12) additional \u201cfree elective\u201d units.&nbsp;With consultation from an advisor, these units can be completed outside of the department or from courses listed the Theatre catalog.</p>",
+        "groupId": "2c18c4c6-1185-450f-b0c0-0193b2a14a71",
+        "position": 6,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "LOWER DIVISION MAJOR REQUIREMENTS",
+        "groupId": "45b2487f-8767-4188-b87a-0193b2a6595a",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 157934,
+                      "courseTitle": "Music Fundamentals",
+                      "courseNumber": "1190",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1993",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "621704df-0b69-4859-24f3-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 28933,
+                      "courseTitle": "Eartraining and Sightsinging I",
+                      "courseNumber": "1320",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "0f58daf4-6e4e-486a-24f4-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 28932,
+                      "courseTitle": "Basic Class Piano",
+                      "courseNumber": "1600",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1993",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "d22cb047-0197-480c-24f5-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 27167,
+                      "courseTitle": "Freshman-Level Voice",
+                      "courseNumber": "1640",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "0582fafc-1a34-45f6-24f6-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 27164,
+                      "courseTitle": "Sophomore-Level Voice",
+                      "courseNumber": "2640",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1999",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "6723a50b-44e6-4007-24f7-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 48104,
+                      "courseTitle": "Sophomore Voice Major Repertoire",
+                      "courseNumber": "2641",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1999",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "5384204e-64e1-45dc-24f8-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 1,
+            "attributes": [
+              {
+                "position": 0,
+                "content": "Concurrent enrollment required"
+              }
+            ]
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 27144,
+                      "courseTitle": "Concert Chorale",
+                      "courseNumber": "2410",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F2015",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "59206cb2-1bb7-4939-24f9-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 412057,
+                      "courseTitle": "Directed Listening",
+                      "courseNumber": "2880",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "ce555bb4-b923-4c38-24fa-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 2,
+            "attributes": [
+              {
+                "position": 0,
+                "content": "Concurrent enrollment required"
+              }
+            ]
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "be82e49d-3a70-47e2-6691-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "58598276-7948-438c-a243-0193b2a6595a",
+        "position": 1,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 42790,
+                      "courseTitle": "Modern Jazz Dance",
+                      "courseNumber": "1960",
+                      "prefix": "KINS",
+                      "prefixParentId": 8385,
+                      "prefixDescription": "Kinesiology",
+                      "departmentParentId": 8119,
+                      "department": "Kinesiology",
+                      "begin": "F2010",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "9a6b3289-e70d-47d2-24fb-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 42772,
+                      "courseTitle": "Intermediate Modern Jazz Dance",
+                      "courseNumber": "1965",
+                      "prefix": "KINS",
+                      "prefixParentId": 8385,
+                      "prefixDescription": "Kinesiology",
+                      "departmentParentId": 8119,
+                      "department": "Kinesiology",
+                      "begin": "F2010",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "d0f1d0ff-0ed8-49f3-24fc-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "24f97244-ae28-4a68-6692-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "863cdb05-dbab-44a0-8397-0193b2b0d578",
+        "position": 2,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 136418,
+                      "courseTitle": "Introduction to Acting",
+                      "courseNumber": "1500",
+                      "prefix": "THEA",
+                      "prefixParentId": 8798,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12831,
+                      "department": "Theatre",
+                      "begin": "F2019",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "191bb97f-9615-4402-24fd-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 377543,
+                      "courseTitle": "Stagecraft I",
+                      "courseNumber": "2020",
+                      "prefix": "THEA",
+                      "prefixParentId": 8798,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12831,
+                      "department": "Theatre",
+                      "begin": "F2012",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "c2286150-0a46-49e6-24fe-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 387272,
+                      "courseTitle": "Rehearsal & Performance 1",
+                      "courseNumber": "2350",
+                      "prefix": "THEA",
+                      "prefixParentId": 8798,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12831,
+                      "department": "Theatre",
+                      "begin": "F2023",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 2.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "a85ed3ea-0481-4eba-24ff-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 373814,
+                      "courseTitle": "Script Analysis",
+                      "courseNumber": "2500",
+                      "prefix": "THEA",
+                      "prefixParentId": 8798,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12831,
+                      "department": "Theatre",
+                      "begin": "F2020",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "84737581-9505-4679-2500-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 387267,
+                      "courseTitle": "Intermediate Acting: Scene Study",
+                      "courseNumber": "2510",
+                      "prefix": "THEA",
+                      "prefixParentId": 8798,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12831,
+                      "department": "Theatre",
+                      "begin": "F2023",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "cb0cd168-194a-4abf-2501-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "3ba8b986-f240-489a-6693-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "890d9327-cd1f-4af8-93a9-0193b2b0d579",
+        "position": 3,
+        "area": "Requirements"
+      }
+    ],
+    "articulations": [],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

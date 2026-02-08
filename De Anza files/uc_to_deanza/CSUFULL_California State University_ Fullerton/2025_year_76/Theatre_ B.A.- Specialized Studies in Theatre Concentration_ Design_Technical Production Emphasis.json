@@ -1,0 +1,513 @@
+{
+  "result": {
+    "name": "Theatre, B.A.- Specialized Studies in Theatre Concentration, Design/Technical Production Emphasis",
+    "type": "Major",
+    "publishDate": "2025-07-29T23:34:06.1442957",
+    "receivingInstitution": "{\"id\":129,\"code\":\"CSUFULL \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"California State University, Fullerton\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "RequirementTitle",
+        "content": "SPECIALIZED STUDIES IN THEATRE CONCENTRATION, DESIGN/TECHNICAL PRODUCTION EMPHASIS",
+        "groupId": "013d7945-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<blockquote><span style=\"font-size: 12px;\">See the </span><a href=\"https://catalog.fullerton.edu/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 12px;\">University Catalog</a><span style=\"font-size: 12px;\"> for the full listing of degree requirements for this major. </span></blockquote><blockquote><span style=\"font-size: 12px;\">See the Admissions website for </span><a href=\"https://admissions.fullerton.edu/prospectivestudent/transferlocaladmissionarea.php\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 12px;\">transfer admission requirements</a><span style=\"font-size: 12px;\"> &amp; </span><a href=\"https://admissions.fullerton.edu/deadlines/index.php\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 12px;\">Admissions deadlines</a></blockquote><blockquote><span style=\"font-size: 12px;\">See </span><a href=\"https://www.fullerton.edu/undergraduate/general-education/approved-courses.html#box5\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 12px;\">approved General Education </a><span style=\"font-size: 12px;\">courses at CSU Fullerton. </span></blockquote><blockquote><span style=\"font-size: 12px;\">See </span><a href=\"https://www.calstate.edu/apply/transfer/Pages/associate-degree-for-transfer-major-and-campus-search.aspx\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 12px;\">Associate Degree for Transfer.</a><span style=\"font-size: 12px;\"> </span></blockquote><blockquote><span style=\"font-size: 12px;\">See the </span><a href=\"https://www.calstate.edu/attend/student-services/casper/Pages/external-exam-credit.aspx\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 12px;\">Credit by Exam information (AP, IB, CLEP).</a></blockquote>",
+        "groupId": "1b846f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "CSUF General Transfer Information",
+        "groupId": "1d846f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p><strong>(120 UNITS)</strong></p><p>Requirements for the major (<a href=\"https://catalog.fullerton.edu/preview_program.php?catoid=95&amp;poid=44663&amp;returnto=14168\" rel=\"noopener noreferrer\" target=\"_blank\">Link</a>) include 12 units of&nbsp;THTR 478B&nbsp;for native students and eight units of&nbsp;THTR 478B&nbsp;for transfers.</p><p>In addition to the requirements for the major, students must meet all other university requirements for a bachelor\u2019s degree. Please consult the&nbsp;<a href=\"https://catalog.fullerton.edu/content.php?catoid=95&amp;navoid=14125\" rel=\"noopener noreferrer\" target=\"_blank\">Graduation Requirements for the Bachelor\u2019s Degree</a>&nbsp;section in this catalog for complete information.</p><p><br></p><p>CSUF THTR 200 (C-ID THTR 114)</p><p>CSUF THTR 276 (C-ID THTR 171)</p><p>CSUF THTR 277 (C-ID THTR 174)</p><p>CSUF THTR 285 (C-ID THTR 175)</p><p>CSUF THTR 288 (C-ID THTR 172)</p><p>CSUF POSC 100 (C-ID POLS 110)</p>",
+        "groupId": "1f846f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "REQUIRED FOR GRADUATION",
+        "groupId": "6e387945-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 338397,
+                      "courseTitle": "American Government",
+                      "courseNumber": "100",
+                      "prefix": "POSC",
+                      "prefixParentId": 2042,
+                      "prefixDescription": "Political Science",
+                      "departmentParentId": 11050,
+                      "department": "Political Science",
+                      "begin": "F1995",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "4567de61-6532-4571-2bd6-08dd55dbff36",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": null,
+        "advisements": [],
+        "groupId": "21846f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 156446,
+                      "courseTitle": "Script Analysis",
+                      "courseNumber": "200",
+                      "prefix": "THTR",
+                      "prefixParentId": 2437,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12843,
+                      "department": "Theatre and Dance",
+                      "begin": "F2018",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "e556bd9e-14cd-4ec8-2bd7-08dd55dbff36",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 197657,
+                      "courseTitle": "Introduction to Costume Design",
+                      "courseNumber": "277",
+                      "prefix": "THTR",
+                      "prefixParentId": 2437,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12843,
+                      "department": "Theatre and Dance",
+                      "begin": "F2017",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "6f9290ee-d702-4d62-2bd8-08dd55dbff36",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 159113,
+                      "courseTitle": "Theatrical Makeup",
+                      "courseNumber": "285",
+                      "prefix": "THTR",
+                      "prefixParentId": 2437,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12843,
+                      "department": "Theatre and Dance",
+                      "begin": "F1995",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "6ad43c10-0a16-4e1f-2bd9-08dd55dbff36",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 191969,
+                      "courseTitle": "Introduction to Acting",
+                      "courseNumber": "160",
+                      "prefix": "THTR",
+                      "prefixParentId": 2437,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12843,
+                      "department": "Theatre and Dance",
+                      "begin": "F2022",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "2457e2c3-1ec1-4b2e-2bda-08dd55dbff36",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 5,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 207985,
+                      "courseTitle": "Introduction to Scene Design",
+                      "courseNumber": "288",
+                      "prefix": "THTR",
+                      "prefixParentId": 2437,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12843,
+                      "department": "Theatre and Dance",
+                      "begin": "F2017",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "aac45483-7021-4193-2bdb-08dd55dbff36",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 167501,
+                      "courseTitle": "Introduction to Stagecraft",
+                      "courseNumber": "276",
+                      "prefix": "THTR",
+                      "prefixParentId": 2437,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12843,
+                      "department": "Theatre and Dance",
+                      "begin": "F2017",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "907e7cb0-385d-40e1-2bdc-08dd55dbff36",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [
+              {
+                "type": "NFollowing",
+                "amount": 6.0,
+                "amountUnitType": "Course",
+                "position": 0,
+                "selectionType": "Complete"
+              }
+            ],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "SectionHeader",
+            "content": "ELECTIVES (LOWER DIVISION)",
+            "position": 1,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 382716,
+                      "courseTitle": "Musical Theatre History",
+                      "courseNumber": "175",
+                      "prefix": "THTR",
+                      "prefixParentId": 2437,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12843,
+                      "department": "Theatre and Dance",
+                      "begin": "S2023",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "aac329e3-cb72-400c-2bdd-08dd55dbff36",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [
+              {
+                "type": "NFollowing",
+                "amount": 1.0,
+                "amountUnitType": "Course",
+                "position": 0,
+                "selectionType": "Complete"
+              }
+            ],
+            "position": 2,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "8d7f9d1f-4baf-4d36-56db-08dd55dbff42",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "23846f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "About This Major",
+        "groupId": "25846f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "ARTICULATION DETAILS",
+        "groupId": "a9777445-6887-ef11-8474-000d3a37e3b6",
+        "position": 4,
+        "area": "Requirements"
+      }
+    ],
+    "articulations": [
+      {
+        "templateCellId": "4567de61-6532-4571-2bd6-08dd55dbff36",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 338397,
+            "courseTitle": "American Government",
+            "courseNumber": "100",
+            "prefix": "POSC",
+            "prefixParentId": 2042,
+            "prefixDescription": "Political Science",
+            "departmentParentId": 11050,
+            "department": "Political Science",
+            "begin": "F1995",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 282754,
+                    "courseTitle": "American Government and Politics",
+                    "courseNumber": "C1000",
+                    "prefix": "POLS",
+                    "prefixParentId": 18724,
+                    "prefixDescription": "Political Science",
+                    "departmentParentId": 11018,
+                    "department": "Political Science",
+                    "begin": "F2025",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "e556bd9e-14cd-4ec8-2bd7-08dd55dbff36",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 156446,
+            "courseTitle": "Script Analysis",
+            "courseNumber": "200",
+            "prefix": "THTR",
+            "prefixParentId": 2437,
+            "prefixDescription": "Theatre",
+            "departmentParentId": 12843,
+            "department": "Theatre and Dance",
+            "begin": "F2018",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [
+              {
+                "deniedOn": "2024-10-31T07:00:00",
+                "attributes": [],
+                "courseIdentifierParentId": 384522,
+                "courseTitle": "Script Analysis",
+                "courseNumber": "7",
+                "prefix": "F/TV",
+                "prefixParentId": 11748,
+                "prefixDescription": "Film/Television",
+                "departmentParentId": 5645,
+                "department": "Film/Television",
+                "begin": "F2023",
+                "end": "",
+                "minUnits": 4.0,
+                "maxUnits": 4.0,
+                "pathways": []
+              }
+            ],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      }
+    ],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

@@ -1,0 +1,241 @@
+{
+  "result": {
+    "name": "Creative Media B.A.",
+    "type": "Major",
+    "publishDate": "2025-11-11T00:57:13.2326584",
+    "receivingInstitution": "{\"id\":24,\"code\":\"CSUSTAN \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"California State University, Stanislaus\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "GeneralText",
+        "content": "<p>This agreement displays all<strong> lower-division courses required in the major</strong>: Stanislaus State courses or requirements on the left, approved (articulated) transfer courses on the right.</p><p><br></p><p><strong>Helpful resources: </strong></p><p><a href=\"https://catalog.csustan.edu/index.php\" rel=\"noopener noreferrer\" target=\"_blank\">Academic Catalog</a></p><p><a href=\"https://www.csustan.edu/undergrad/transfer-admission\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Admissions</a></p><p><br></p><p>Questions regarding this agreement may be directed to the Stanislaus State Articulation Analyst. Please visit the <a href=\"https://www.csustan.edu/articulation\" rel=\"noopener noreferrer\" target=\"_blank\">Stanislaus State Articulation Website</a> for contact information.</p>",
+        "groupId": "97046645-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Creative Media is an interdisciplinary Bachelor of Arts degree that unites expertise from a variety of disciplines to offer students the opportunity to develop their abilities in critical thinking and teamwork as they create compelling narratives across media platforms. This program draws from diverse fields including Art, Anthropology, Business, English, Ethnic Studies, Gender Studies, Journalism, Political Science, Spanish and Theatre to bring together knowledge and practical experience. Students will build a foundational core in preparation for exploring their own interests in advocacy, design, creative writing, media and film, visual storytelling or live performance.</p>",
+        "groupId": "e63c7445-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 209375,
+                      "courseTitle": "Writing for the Media",
+                      "courseNumber": "2150",
+                      "prefix": "JOUR",
+                      "prefixParentId": 1485,
+                      "prefixDescription": "Journalism",
+                      "departmentParentId": 7955,
+                      "department": "Journalism",
+                      "begin": "F2004",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "11f16d5b-7922-43ba-26dc-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 248099,
+                      "courseTitle": "Foundation Digital Media",
+                      "courseNumber": "1040",
+                      "prefix": "ART",
+                      "prefixParentId": 4446,
+                      "prefixDescription": "Art",
+                      "departmentParentId": 1046,
+                      "department": "Art",
+                      "begin": "S2008",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "2f9ff500-2623-475a-26dd-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": null,
+        "advisements": [],
+        "groupId": "51e47145-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "General Information",
+        "groupId": "bdfd6f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "ABOUT THE MAJOR",
+        "groupId": "d92f7445-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "LOWER DIVISION PREREQUISITES",
+        "groupId": "ee007945-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "ABOUT LOWER DIVISION MAJOR REQUIREMENTS",
+        "groupId": "41d67645-6887-ef11-8474-000d3a37e3b6",
+        "position": 4,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Each prerequisite course addresses one part of the portfolio development:</p><ul><li>ART 1040 the portfolio and visual media creation, and</li><li>JOUR 2150 the content development</li><li><strong>Take one, based on consultation, for 3 units total:</strong></li><li class=\"ql-indent-1\">Track 1 Prerequisite: THEA 2500 - Script Analysis <strong>OR</strong></li><li class=\"ql-indent-1\"><span style=\"color: rgb(29, 32, 36);\">Track 2 Prerequisite: MUS 2150 - Introduction to Music Technology&nbsp;</span></li></ul>",
+        "groupId": "7bfd6f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 5,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 373814,
+                      "courseTitle": "Script Analysis",
+                      "courseNumber": "2500",
+                      "prefix": "THEA",
+                      "prefixParentId": 8798,
+                      "prefixDescription": "Theatre",
+                      "departmentParentId": 12831,
+                      "department": "Theatre",
+                      "begin": "F2020",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "1a10cfa8-389a-4691-7e07-08de1c879cd0",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 47963,
+                      "courseTitle": "Introduction to Music Technology",
+                      "courseNumber": "2150",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F2005",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "fbe84163-fb1f-4e67-7e08-08de1c879cd0",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 1.0,
+          "amountQuantifier": "None",
+          "amountUnitType": "Course",
+          "toAmountDeterminer": "None",
+          "toAmount": 1.0,
+          "areaType": "None",
+          "id": "a85535a3-4bff-40c3-a850-08de1c879ccf",
+          "selectionType": "Select"
+        },
+        "advisements": [],
+        "groupId": "6e9899b1-0594-4120-bccf-019a706805a0",
+        "position": 2,
+        "area": "Requirements"
+      }
+    ],
+    "articulations": [],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

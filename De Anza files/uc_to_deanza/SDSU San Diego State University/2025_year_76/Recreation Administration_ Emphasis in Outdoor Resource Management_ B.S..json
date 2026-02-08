@@ -1,0 +1,852 @@
+{
+  "result": {
+    "name": "Recreation Administration, Emphasis in Outdoor Resource Management, B.S.",
+    "type": "Major",
+    "publishDate": "2025-10-06T22:46:48.1459605",
+    "receivingInstitution": "{\"id\":26,\"code\":\"SDSU    \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"San Diego State University\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": true,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 158719,
+                      "courseTitle": "People, Places, and Environments",
+                      "courseNumber": "102",
+                      "prefix": "GEOG",
+                      "prefixParentId": 10511,
+                      "prefixDescription": "Geography",
+                      "departmentParentId": 6145,
+                      "department": "Geography",
+                      "begin": "F2012",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "b11f12f5-45d2-4608-1104-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 136882,
+                      "courseTitle": "Supervised Field Work",
+                      "courseNumber": "284",
+                      "prefix": "RTM",
+                      "prefixParentId": 9283,
+                      "prefixDescription": "Recreation and Tourism Management",
+                      "departmentParentId": 11636,
+                      "department": "Recreation and Tourism Management",
+                      "begin": "F2008",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "11e2aa1a-1536-47ac-1105-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 330888,
+                      "courseTitle": "Principles of Economics",
+                      "courseNumber": "101",
+                      "prefix": "ECON",
+                      "prefixParentId": 1203,
+                      "prefixDescription": "Economics",
+                      "departmentParentId": 4237,
+                      "department": "Economics",
+                      "begin": "F1994",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "d5c5e8df-5ef6-493e-1106-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 197613,
+                      "courseTitle": "Introduction to Hospitality and Tourism Management",
+                      "courseNumber": "201",
+                      "prefix": "HTM",
+                      "prefixParentId": 12879,
+                      "prefixDescription": "Hospitality and Tourism Management",
+                      "departmentParentId": 7158,
+                      "department": "Hospitality and Tourism Management",
+                      "begin": "F2001",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "5eeba272-dfd5-4a0f-1107-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 369759,
+                      "courseTitle": "Hospitality, Recreation, and Tourism Professions",
+                      "courseNumber": "219",
+                      "prefix": "HTM",
+                      "prefixParentId": 12879,
+                      "prefixDescription": "Hospitality and Tourism Management",
+                      "departmentParentId": 7158,
+                      "department": "Hospitality and Tourism Management",
+                      "begin": "F2019",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "9bfbf863-19f3-4b0b-1108-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 5,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 229703,
+                      "courseTitle": "Hospitality Managerial Accounting and Controls",
+                      "courseNumber": "223",
+                      "prefix": "HTM",
+                      "prefixParentId": 12879,
+                      "prefixDescription": "Hospitality and Tourism Management",
+                      "departmentParentId": 7158,
+                      "department": "Hospitality and Tourism Management",
+                      "begin": "F2001",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "403183b3-ba06-4ec1-1109-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 6,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 158904,
+                      "courseTitle": "Introductory Psychology",
+                      "courseNumber": "101",
+                      "prefix": "PSY",
+                      "prefixParentId": 4614,
+                      "prefixDescription": "Psychology",
+                      "departmentParentId": 11187,
+                      "department": "Psychology",
+                      "begin": "F1994",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "91749c13-a76b-421a-110a-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 369765,
+                      "courseTitle": "Data Driven Decision Making in Hospitality, Recreation, and Tourism",
+                      "courseNumber": "290",
+                      "prefix": "RTM",
+                      "prefixParentId": 9283,
+                      "prefixDescription": "Recreation and Tourism Management",
+                      "departmentParentId": 11636,
+                      "department": "Recreation and Tourism Management",
+                      "begin": "F2024",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "affc0388-bcf1-4b6c-110b-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 136871,
+                      "courseTitle": "Principles of Information Systems",
+                      "courseNumber": "180",
+                      "prefix": "MIS",
+                      "prefixParentId": 11055,
+                      "prefixDescription": "Management Information Systems",
+                      "departmentParentId": 8778,
+                      "department": "Management Information Systems",
+                      "begin": "F2011",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "74c2bb92-6ca6-4663-110c-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [
+              {
+                "type": "NFollowing",
+                "amount": 1.0,
+                "amountUnitType": "Course",
+                "position": 0,
+                "selectionType": "Complete"
+              }
+            ],
+            "position": 1,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "f57308e9-868e-4a9f-a14a-08ddd3b241b0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "1afa7645-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Due to high demand, admission to SDSU is highly competitive. General admission information is available at: <a href=\"http://arweb.sdsu.edu/es/admissions/transfers/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">http://arweb.sdsu.edu/es/admissions/transfers/index.html</a>.</p>",
+        "groupId": "76037045-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "PREPARATION FOR THE MAJOR",
+        "groupId": "be2c7945-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "Requirements"
+      }
+    ],
+    "articulations": [
+      {
+        "templateCellId": "b11f12f5-45d2-4608-1104-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 158719,
+            "courseTitle": "People, Places, and Environments",
+            "courseNumber": "102",
+            "prefix": "GEOG",
+            "prefixParentId": 10511,
+            "prefixDescription": "Geography",
+            "departmentParentId": 6145,
+            "department": "Geography",
+            "begin": "F2012",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 298844,
+                    "courseTitle": "Cultural Geography",
+                    "courseNumber": "4",
+                    "prefix": "GEO",
+                    "prefixParentId": 10601,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 6120,
+                    "department": "Geography",
+                    "begin": "F2004",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "11e2aa1a-1536-47ac-1105-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 136882,
+            "courseTitle": "Supervised Field Work",
+            "courseNumber": "284",
+            "prefix": "RTM",
+            "prefixParentId": 9283,
+            "prefixDescription": "Recreation and Tourism Management",
+            "departmentParentId": 11636,
+            "department": "Recreation and Tourism Management",
+            "begin": "F2008",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Course Articulated",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "d5c5e8df-5ef6-493e-1106-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 330888,
+            "courseTitle": "Principles of Economics",
+            "courseNumber": "101",
+            "prefix": "ECON",
+            "prefixParentId": 1203,
+            "prefixDescription": "Economics",
+            "departmentParentId": 4237,
+            "department": "Economics",
+            "begin": "F1994",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 253845,
+                    "courseTitle": "Principles of Macroeconomics",
+                    "courseNumber": "1",
+                    "prefix": "ECON",
+                    "prefixParentId": 1291,
+                    "prefixDescription": "Economics",
+                    "departmentParentId": 4312,
+                    "department": "Economics",
+                    "begin": "F1995",
+                    "end": "F2026",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 357742,
+                    "courseTitle": "Principles of Macroeconomics - HONORS",
+                    "courseNumber": "1H",
+                    "prefix": "ECON",
+                    "prefixParentId": 1291,
+                    "prefixDescription": "Economics",
+                    "departmentParentId": 4312,
+                    "department": "Economics",
+                    "begin": "F2015",
+                    "end": "F2026",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "814f45df-d01e-40b6-147c-08ddd3b26d80",
+                "sendingArticulationId": "b909abb5-96ec-4fe6-821b-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "5eeba272-dfd5-4a0f-1107-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 197613,
+            "courseTitle": "Introduction to Hospitality and Tourism Management",
+            "courseNumber": "201",
+            "prefix": "HTM",
+            "prefixParentId": 12879,
+            "prefixDescription": "Hospitality and Tourism Management",
+            "departmentParentId": 7158,
+            "department": "Hospitality and Tourism Management",
+            "begin": "F2001",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Course Articulated",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "9bfbf863-19f3-4b0b-1108-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 369759,
+            "courseTitle": "Hospitality, Recreation, and Tourism Professions",
+            "courseNumber": "219",
+            "prefix": "HTM",
+            "prefixParentId": 12879,
+            "prefixDescription": "Hospitality and Tourism Management",
+            "departmentParentId": 7158,
+            "department": "Hospitality and Tourism Management",
+            "begin": "F2019",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Course Articulated",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "403183b3-ba06-4ec1-1109-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 229703,
+            "courseTitle": "Hospitality Managerial Accounting and Controls",
+            "courseNumber": "223",
+            "prefix": "HTM",
+            "prefixParentId": 12879,
+            "prefixDescription": "Hospitality and Tourism Management",
+            "departmentParentId": 7158,
+            "department": "Hospitality and Tourism Management",
+            "begin": "F2001",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Course Articulated",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "91749c13-a76b-421a-110a-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 158904,
+            "courseTitle": "Introductory Psychology",
+            "courseNumber": "101",
+            "prefix": "PSY",
+            "prefixParentId": 4614,
+            "prefixDescription": "Psychology",
+            "departmentParentId": 11187,
+            "department": "Psychology",
+            "begin": "F1994",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 281450,
+                    "courseTitle": "Introduction to Psychology",
+                    "courseNumber": "C1000",
+                    "prefix": "PSYC",
+                    "prefixParentId": 4716,
+                    "prefixDescription": "Psychology",
+                    "departmentParentId": 11251,
+                    "department": "Psychology",
+                    "begin": "F2025",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "affc0388-bcf1-4b6c-110b-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 369765,
+            "courseTitle": "Data Driven Decision Making in Hospitality, Recreation, and Tourism",
+            "courseNumber": "290",
+            "prefix": "RTM",
+            "prefixParentId": 9283,
+            "prefixDescription": "Recreation and Tourism Management",
+            "departmentParentId": 11636,
+            "department": "Recreation and Tourism Management",
+            "begin": "F2024",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Course Articulated",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "74c2bb92-6ca6-4663-110c-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 136871,
+            "courseTitle": "Principles of Information Systems",
+            "courseNumber": "180",
+            "prefix": "MIS",
+            "prefixParentId": 11055,
+            "prefixDescription": "Management Information Systems",
+            "departmentParentId": 8778,
+            "department": "Management Information Systems",
+            "begin": "F2011",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 275551,
+                    "courseTitle": "Business Information Systems",
+                    "courseNumber": "3",
+                    "prefix": "CIS",
+                    "prefixParentId": 2242,
+                    "prefixDescription": "Computer Information Systems",
+                    "departmentParentId": 3124,
+                    "department": "Computer Science and Information Systems",
+                    "begin": "F2009",
+                    "end": "",
+                    "minUnits": 4.5,
+                    "maxUnits": 4.5,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      }
+    ],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

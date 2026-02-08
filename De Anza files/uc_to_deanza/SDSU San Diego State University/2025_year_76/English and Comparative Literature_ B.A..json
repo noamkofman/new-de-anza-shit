@@ -1,0 +1,1127 @@
+{
+  "result": {
+    "name": "English and Comparative Literature, B.A.",
+    "type": "Major",
+    "publishDate": "2025-10-06T21:55:24.2696538",
+    "receivingInstitution": "{\"id\":26,\"code\":\"SDSU    \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"San Diego State University\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "GeneralText",
+        "content": "<p>Due to high demand, admission to SDSU is highly competitive. General admission information is available at:<a href=\"http://arweb.sdsu.edu/es/admissions/transfers/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">http://arweb.sdsu.edu/es/admissions/transfers/index.html</a> </p>",
+        "groupId": "72bbe18f-240a-444c-9ba0-01933267094f",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "Foreign Language Requirement",
+        "groupId": "8afe3d93-f93d-417b-a836-01933267f170",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Competency (successfully completing the third college semester or fifth college quarter) is required in one foreign language to fulfill graduation requirements for this major.</p>",
+        "groupId": "75a24761-287b-487d-ba70-01933267f170",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "PREPARATION FOR THE MAJOR",
+        "groupId": "12016779-efa8-4d47-ad65-0193326b9658",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 158715,
+                      "courseTitle": "Introduction to Literature of the United States",
+                      "courseNumber": "250",
+                      "prefix": "ECL",
+                      "prefixParentId": 17331,
+                      "prefixDescription": "English and Comparative Literature",
+                      "departmentParentId": 14482,
+                      "department": "English and Comparative Literature",
+                      "begin": "F2023",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "9626a1e7-1e1d-4a33-1139-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 331003,
+                      "courseTitle": "Introduction to British Literature",
+                      "courseNumber": "260",
+                      "prefix": "ECL",
+                      "prefixParentId": 17331,
+                      "prefixDescription": "English and Comparative Literature",
+                      "departmentParentId": 14482,
+                      "department": "English and Comparative Literature",
+                      "begin": "F2023",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "163cdef7-eca7-4581-113a-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 330857,
+                      "courseTitle": "Introduction to Comparative Literature",
+                      "courseNumber": "270",
+                      "prefix": "ECL",
+                      "prefixParentId": 17331,
+                      "prefixDescription": "English and Comparative Literature",
+                      "departmentParentId": 14482,
+                      "department": "English and Comparative Literature",
+                      "begin": "F2023",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "f4581e53-e2d6-4867-113b-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 341568,
+                      "courseTitle": "Rhetoric of Written Arguments in Context",
+                      "courseNumber": "200",
+                      "prefix": "RWS",
+                      "prefixParentId": 7184,
+                      "prefixDescription": "Rhetoric and Writing Studies",
+                      "departmentParentId": 11741,
+                      "department": "Rhetoric and Writing Studies",
+                      "begin": "F2004",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [
+                      {
+                        "course": {
+                          "courseIdentifierParentId": 341570,
+                          "courseTitle": "Rhetoric of Written Arguments in Context",
+                          "courseNumber": "200",
+                          "prefix": "ECL",
+                          "prefixParentId": 17331,
+                          "prefixDescription": "English and Comparative Literature",
+                          "departmentParentId": 14482,
+                          "department": "English and Comparative Literature",
+                          "begin": "F2023",
+                          "end": "",
+                          "minUnits": 3.0,
+                          "maxUnits": 3.0,
+                          "pathways": []
+                        }
+                      }
+                    ],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "a18ae539-5c11-4937-113c-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 136935,
+                      "courseTitle": "The Art of Literature",
+                      "courseNumber": "220",
+                      "prefix": "ECL",
+                      "prefixParentId": 17331,
+                      "prefixDescription": "English and Comparative Literature",
+                      "departmentParentId": 14482,
+                      "department": "English and Comparative Literature",
+                      "begin": "F2023",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "b4a626b9-74f0-4da6-113d-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 158766,
+                      "courseTitle": "Introduction to Creative Writing",
+                      "courseNumber": "280",
+                      "prefix": "ECL",
+                      "prefixParentId": 17331,
+                      "prefixDescription": "English and Comparative Literature",
+                      "departmentParentId": 14482,
+                      "department": "English and Comparative Literature",
+                      "begin": "F2023",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "f29610a8-96c9-494c-113e-08ddd3b241bf",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [
+              {
+                "type": "NFollowing",
+                "amount": 1.0,
+                "amountUnitType": "Course",
+                "position": 0,
+                "selectionType": "Complete"
+              }
+            ],
+            "position": 1,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "a6e19b97-7af6-4538-a154-08ddd3b241b0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "e0679e4e-89c7-498e-9387-0193326b9659",
+        "position": 1,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>These courses cannot be taken for credit/no credit (Cr/NC);</p><p>Complete with a minimum GPA of 2.50 and a grade of C (2.0) or better:</p><ul><li><a href=\"https://catalog.sdsu.edu/preview_program.php?catoid=10&amp;poid=9973&amp;returnto=909#\" rel=\"noopener noreferrer\" target=\"_blank\">ECL 250&nbsp;-&nbsp;Introduction to Literature of the United States</a>&nbsp;Units:&nbsp;<strong>3</strong></li><li><a href=\"https://catalog.sdsu.edu/preview_program.php?catoid=10&amp;poid=9973&amp;returnto=909#\" rel=\"noopener noreferrer\" target=\"_blank\">ECL 260&nbsp;-&nbsp;Introduction to British Literature</a>&nbsp;Units:&nbsp;<strong>3</strong></li><li><a href=\"https://catalog.sdsu.edu/preview_program.php?catoid=10&amp;poid=9973&amp;returnto=909#\" rel=\"noopener noreferrer\" target=\"_blank\">ECL 270&nbsp;-&nbsp;Introduction to Comparative Literature</a>&nbsp;Units:&nbsp;<strong>3</strong></li><li><a href=\"https://catalog.sdsu.edu/preview_program.php?catoid=10&amp;poid=9973&amp;returnto=909#\" rel=\"noopener noreferrer\" target=\"_blank\">RWS 200&nbsp;-&nbsp;Rhetoric of Written Arguments in Context</a>&nbsp;Units:&nbsp;<strong>3</strong></li></ul><p><br></p>",
+        "groupId": "dd7270bf-7d6b-487b-8e05-0199ad3aeff3",
+        "position": 3,
+        "area": "General"
+      }
+    ],
+    "articulations": [
+      {
+        "templateCellId": "9626a1e7-1e1d-4a33-1139-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 158715,
+            "courseTitle": "Introduction to Literature of the United States",
+            "courseNumber": "250",
+            "prefix": "ECL",
+            "prefixParentId": 17331,
+            "prefixDescription": "English and Comparative Literature",
+            "departmentParentId": 14482,
+            "department": "English and Comparative Literature",
+            "begin": "F2023",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 363728,
+                    "courseTitle": "Major American Writers (Colonial to Romantic, 1620-1865) - HONORS",
+                    "courseNumber": "48AH",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 363729,
+                    "courseTitle": "Major American Writers (The Advent of Realism, 1865-1914) - HONORS",
+                    "courseNumber": "48BH",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 353308,
+                    "courseTitle": "Major American Writers (The Advent of Realism, 1865-1914)",
+                    "courseNumber": "48B",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2010",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 239,
+                    "position": 1,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 353683,
+                    "courseTitle": "Major American Writers (Colonial and Romantic, 1620-1865)",
+                    "courseNumber": "48A",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2010",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 239,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 353308,
+                    "courseTitle": "Major American Writers (The Advent of Realism, 1865-1914)",
+                    "courseNumber": "48B",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2010",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 239,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 254997,
+                    "courseTitle": "Major American Writers (The Modern Age, 1914 - The Present)",
+                    "courseNumber": "48C",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 195,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [
+                  {
+                    "position": 0,
+                    "content": "Articulates as a sequence only"
+                  }
+                ],
+                "position": 2,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 363729,
+                    "courseTitle": "Major American Writers (The Advent of Realism, 1865-1914) - HONORS",
+                    "courseNumber": "48BH",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 363730,
+                    "courseTitle": "Major American Writers (The Modern Age, 1914-the Present) - HONORS",
+                    "courseNumber": "48CH",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [
+                  {
+                    "position": 0,
+                    "content": "Articulates as a sequence only"
+                  }
+                ],
+                "position": 3,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "a55b8c5e-d4d7-449a-1489-08ddd3b26d80",
+                "sendingArticulationId": "c2f5383a-be1c-4070-83f8-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              },
+              {
+                "id": "f60c6e78-4af5-43c2-148a-08ddd3b26d80",
+                "sendingArticulationId": "c2f5383a-be1c-4070-83f8-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 1,
+                "sendingCourseGroupEndPosition": 2
+              },
+              {
+                "id": "49c8f582-4fa0-4ea9-148b-08ddd3b26d80",
+                "sendingArticulationId": "c2f5383a-be1c-4070-83f8-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 2,
+                "sendingCourseGroupEndPosition": 3
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "163cdef7-eca7-4581-113a-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 331003,
+            "courseTitle": "Introduction to British Literature",
+            "courseNumber": "260",
+            "prefix": "ECL",
+            "prefixParentId": 17331,
+            "prefixDescription": "English and Comparative Literature",
+            "departmentParentId": 14482,
+            "department": "English and Comparative Literature",
+            "begin": "F2023",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 363600,
+                    "courseTitle": "Major British Writers (Neo-Classical and Romantic) - HONORS",
+                    "courseNumber": "46BH",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 1,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 363594,
+                    "courseTitle": "Major British Writers (Medieval and Renaissance) - HONORS",
+                    "courseNumber": "46AH",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [
+                      {
+                        "position": 0,
+                        "content": "Articulates as a sequence only"
+                      }
+                    ],
+                    "courseIdentifierParentId": 353362,
+                    "courseTitle": "Major British Writers (Medieval and Renaissance)",
+                    "courseNumber": "46A",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 195,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 289056,
+                    "courseTitle": "Major British Writers (Neo-Classical and Romantic)",
+                    "courseNumber": "46B",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 195,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 289056,
+                    "courseTitle": "Major British Writers (Neo-Classical and Romantic)",
+                    "courseNumber": "46B",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 195,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 253834,
+                    "courseTitle": "Major British Writers (Victorian and Modern)",
+                    "courseNumber": "46C",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F1999",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 195,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [
+                  {
+                    "position": 0,
+                    "content": "Articulates as a sequence only"
+                  }
+                ],
+                "position": 2,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 363600,
+                    "courseTitle": "Major British Writers (Neo-Classical and Romantic) - HONORS",
+                    "courseNumber": "46BH",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 0,
+                    "type": "Course"
+                  },
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 363601,
+                    "courseTitle": "Major British Writers (Victorian and Modern) - HONORS",
+                    "courseNumber": "46CH",
+                    "prefix": "ELIT",
+                    "prefixParentId": 4816,
+                    "prefixDescription": "English (Literature)",
+                    "departmentParentId": 5069,
+                    "department": "English (Literature)",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 1,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [
+                  {
+                    "position": 0,
+                    "content": "Articulates as a sequence only"
+                  }
+                ],
+                "position": 3,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "c6c410cc-eb0e-4fac-1468-08ddd3b26d80",
+                "sendingArticulationId": "5341145e-a814-47a1-80f0-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              },
+              {
+                "id": "113e6a5a-b7b6-4a16-1469-08ddd3b26d80",
+                "sendingArticulationId": "5341145e-a814-47a1-80f0-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 1,
+                "sendingCourseGroupEndPosition": 2
+              },
+              {
+                "id": "b72ae0c2-78d2-43e6-146a-08ddd3b26d80",
+                "sendingArticulationId": "5341145e-a814-47a1-80f0-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 2,
+                "sendingCourseGroupEndPosition": 3
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "f4581e53-e2d6-4867-113b-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 330857,
+            "courseTitle": "Introduction to Comparative Literature",
+            "courseNumber": "270",
+            "prefix": "ECL",
+            "prefixParentId": 17331,
+            "prefixDescription": "English and Comparative Literature",
+            "departmentParentId": 14482,
+            "department": "English and Comparative Literature",
+            "begin": "F2023",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "Course(s) Denied",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "a18ae539-5c11-4937-113c-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 341568,
+            "courseTitle": "Rhetoric of Written Arguments in Context",
+            "courseNumber": "200",
+            "prefix": "RWS",
+            "prefixParentId": 7184,
+            "prefixDescription": "Rhetoric and Writing Studies",
+            "departmentParentId": 11741,
+            "department": "Rhetoric and Writing Studies",
+            "begin": "F2004",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [
+            {
+              "courseIdentifierParentId": 341570,
+              "courseTitle": "Rhetoric of Written Arguments in Context",
+              "courseNumber": "200",
+              "prefix": "ECL",
+              "prefixParentId": 17331,
+              "prefixDescription": "English and Comparative Literature",
+              "departmentParentId": 14482,
+              "department": "English and Comparative Literature",
+              "begin": "F2023",
+              "end": "",
+              "minUnits": 3.0,
+              "maxUnits": 3.0,
+              "pathways": []
+            }
+          ],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 360067,
+                    "courseTitle": "Critical Thinking and Writing - HONORS ",
+                    "courseNumber": "C1001H",
+                    "prefix": "ENGL",
+                    "prefixParentId": 18741,
+                    "prefixDescription": "English",
+                    "departmentParentId": 15392,
+                    "department": "English",
+                    "begin": "F2025",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 308237,
+                    "courseTitle": " Critical Thinking and Writing ",
+                    "courseNumber": "C1001",
+                    "prefix": "ENGL",
+                    "prefixParentId": 18741,
+                    "prefixDescription": "English",
+                    "departmentParentId": 15392,
+                    "department": "English",
+                    "begin": "F2025",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [
+              {
+                "id": "7323234c-ee61-4411-15e7-08ddd3b26d80",
+                "sendingArticulationId": "124257e0-dd19-47d9-a301-08ddd3b26c6a",
+                "groupConjunction": "Or",
+                "sendingCourseGroupBeginPosition": 0,
+                "sendingCourseGroupEndPosition": 1
+              }
+            ],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "b4a626b9-74f0-4da6-113d-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 136935,
+            "courseTitle": "The Art of Literature",
+            "courseNumber": "220",
+            "prefix": "ECL",
+            "prefixParentId": 17331,
+            "prefixDescription": "English and Comparative Literature",
+            "departmentParentId": 14482,
+            "department": "English and Comparative Literature",
+            "begin": "F2023",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Course Articulated",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "f29610a8-96c9-494c-113e-08ddd3b241bf",
+        "articulation": {
+          "type": "Course",
+          "course": {
+            "courseIdentifierParentId": 158766,
+            "courseTitle": "Introduction to Creative Writing",
+            "courseNumber": "280",
+            "prefix": "ECL",
+            "prefixParentId": 17331,
+            "prefixDescription": "English and Comparative Literature",
+            "departmentParentId": 14482,
+            "department": "English and Comparative Literature",
+            "begin": "F2023",
+            "end": "",
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "pathways": []
+          },
+          "visibleCrossListedCourses": [],
+          "courseAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 262960,
+                    "courseTitle": "Introduction to Creative Writing",
+                    "courseNumber": "30",
+                    "prefix": "EWRT",
+                    "prefixParentId": 1402,
+                    "prefixDescription": "English (Writing)",
+                    "departmentParentId": 5070,
+                    "department": "English (Writing)",
+                    "begin": "F2017",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": null,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "SendingArticulation",
+            "attributes": []
+          },
+          "templateOverrides": [],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Course",
+          "courseAttributes": [],
+          "attributes": []
+        }
+      }
+    ],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

@@ -1,0 +1,4852 @@
+{
+  "result": {
+    "name": "Liberal Studies B.A. Elementary Teaching Content Preparation Program",
+    "type": "Major",
+    "publishDate": "2025-11-14T23:35:45.7535435",
+    "receivingInstitution": "{\"id\":24,\"code\":\"CSUSTAN \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"California State University, Stanislaus\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 120211,
+                      "courseTitle": "Analysis of Classroom Environments",
+                      "courseNumber": "2000",
+                      "prefix": "LIBS",
+                      "prefixParentId": 5357,
+                      "prefixDescription": "Liberal Studies",
+                      "departmentParentId": 8459,
+                      "department": "Liberal Studies",
+                      "begin": "F2020",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "3ee84c89-e133-4c49-263a-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 243388,
+                      "courseTitle": "Reflections on Classroom Environments",
+                      "courseNumber": "2010",
+                      "prefix": "LIBS",
+                      "prefixParentId": 5357,
+                      "prefixDescription": "Liberal Studies",
+                      "departmentParentId": 8459,
+                      "department": "Liberal Studies",
+                      "begin": "F2019",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "c6128d11-f67f-412f-263b-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [
+              {
+                "type": "NFollowing",
+                "amount": 1.0,
+                "amountUnitType": "Course",
+                "position": 0,
+                "selectionType": "Select"
+              }
+            ],
+            "position": 1,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Human Development"
+                    },
+                    "requirementAttributes": [],
+                    "id": "a8e52a42-f335-4246-263c-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 3,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 174365,
+                      "courseTitle": "Introduction to Classroom Experiences",
+                      "courseNumber": "1000",
+                      "prefix": "LIBS",
+                      "prefixParentId": 5357,
+                      "prefixDescription": "Liberal Studies",
+                      "departmentParentId": 8459,
+                      "department": "Liberal Studies",
+                      "begin": "F2019",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "1a36f183-b62f-49d8-263d-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 233043,
+                      "courseTitle": "Reflections on Classroom Experiences",
+                      "courseNumber": "1010",
+                      "prefix": "LIBS",
+                      "prefixParentId": 5357,
+                      "prefixDescription": "Liberal Studies",
+                      "departmentParentId": 8459,
+                      "department": "Liberal Studies",
+                      "begin": "F2019",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "76e272a6-1743-4b94-263e-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [
+              {
+                "type": "NFollowing",
+                "amount": 1.0,
+                "amountUnitType": "Course",
+                "position": 0,
+                "selectionType": "Select"
+              }
+            ],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 157886,
+                      "courseTitle": "Elementary Foundations of Mathematics II",
+                      "courseNumber": "1040",
+                      "prefix": "MATH",
+                      "prefixParentId": 9930,
+                      "prefixDescription": "Mathematics",
+                      "departmentParentId": 8965,
+                      "department": "Mathematics",
+                      "begin": "F1999",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "1aac7016-0b82-4231-263f-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 2,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "09fad35e-0362-44f5-66e2-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "3ceb7145-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Oral Communication"
+                    },
+                    "requirementAttributes": [],
+                    "id": "4cf3f6e4-c54b-4492-2640-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Composition"
+                    },
+                    "requirementAttributes": [],
+                    "id": "764f6c01-5728-4f31-2641-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Critical Thinking"
+                    },
+                    "requirementAttributes": [],
+                    "id": "94fe7d95-1ac1-4acc-2642-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Children's Literature"
+                    },
+                    "requirementAttributes": [
+                      {
+                        "position": 0,
+                        "content": "Please refer to additional important General Information section above"
+                      }
+                    ],
+                    "id": "e12cb39e-9f33-4cc8-2643-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 1,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "4418294a-5ffa-4dd2-66e3-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "101f6645-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "HISTORY AND SOCIAL SCIENCE",
+        "groupId": "75e27645-6887-ef11-8474-000d3a37e3b6",
+        "position": 4,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "SCIENCE",
+        "groupId": "0b3a7945-6887-ef11-8474-000d3a37e3b6",
+        "position": 8,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "American Government"
+                    },
+                    "requirementAttributes": [],
+                    "id": "f6edde36-b979-4e6c-2644-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "California History"
+                    },
+                    "requirementAttributes": [],
+                    "id": "81e27a1d-bdee-43ad-2645-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Early U.S. History"
+                    },
+                    "requirementAttributes": [],
+                    "id": "094fd6c3-8d49-4a9e-2646-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Ancient World History"
+                    },
+                    "requirementAttributes": [],
+                    "id": "d0108441-ec97-4b59-2647-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Geography"
+                    },
+                    "requirementAttributes": [
+                      {
+                        "position": 0,
+                        "content": "Please refer to additional important General Information section above"
+                      }
+                    ],
+                    "id": "156d9746-621e-4b0b-2648-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 1,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "f7fcdd51-0534-4b01-66e4-08ddcef9aed0",
+          "selectionType": "Select"
+        },
+        "advisements": [],
+        "groupId": "6f586845-6887-ef11-8474-000d3a37e3b6",
+        "position": 5,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "MATH Foundations I"
+                    },
+                    "requirementAttributes": [],
+                    "id": "962f1a31-0efa-47eb-2649-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "MATH Foundations II"
+                    },
+                    "requirementAttributes": [],
+                    "id": "6aa73e06-7c20-4307-264a-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "7eb8eec7-c245-4174-66e5-08ddcef9aed0",
+          "selectionType": "Select"
+        },
+        "advisements": [],
+        "groupId": "71586845-6887-ef11-8474-000d3a37e3b6",
+        "position": 7,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Chemistry"
+                    },
+                    "requirementAttributes": [
+                      {
+                        "position": 0,
+                        "content": "Please refer to additional important General Information section above"
+                      }
+                    ],
+                    "id": "ee482f52-8310-4728-264b-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Earth Science"
+                    },
+                    "requirementAttributes": [],
+                    "id": "e806dca9-3df3-454c-264c-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Physics"
+                    },
+                    "requirementAttributes": [
+                      {
+                        "position": 0,
+                        "content": "Please refer to additional important General Information section above"
+                      }
+                    ],
+                    "id": "a4d51c02-cc97-4ae5-264d-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Physics Laboratory"
+                    },
+                    "requirementAttributes": [],
+                    "id": "9bc13d2a-d0aa-4c0f-264e-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 1,
+            "attributes": []
+          },
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Biological Sciences"
+                    },
+                    "requirementAttributes": [],
+                    "id": "f9f76e46-96db-4130-264f-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Biological Sciences Laboratory"
+                    },
+                    "requirementAttributes": [],
+                    "id": "a58be699-44e6-4e1a-2650-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 2,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "5a1cf3e0-4563-49fe-66e6-08ddcef9aed0",
+          "selectionType": "Select"
+        },
+        "advisements": [],
+        "groupId": "73586845-6887-ef11-8474-000d3a37e3b6",
+        "position": 9,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "VISUAL AND PERFORMING ARTS",
+        "groupId": "d5477945-6887-ef11-8474-000d3a37e3b6",
+        "position": 10,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Art"
+                    },
+                    "requirementAttributes": [],
+                    "id": "65524cb3-f813-42f7-2651-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Music"
+                    },
+                    "requirementAttributes": [],
+                    "id": "b7ef3550-c629-4cc9-2652-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Requirement",
+                    "requirement": {
+                      "name": "Theatre"
+                    },
+                    "requirementAttributes": [],
+                    "id": "ad683eb3-2929-4e04-2653-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [
+          {
+            "position": 0,
+            "content": "Please refer to additional important General Information section above"
+          }
+        ],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Conjunction",
+          "conjunction": "And",
+          "id": "3d3ab4ce-1576-45cb-66e7-08ddcef9aed0",
+          "selectionType": "Select"
+        },
+        "advisements": [],
+        "groupId": "75586845-6887-ef11-8474-000d3a37e3b6",
+        "position": 11,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "MATHEMATICS",
+        "groupId": "bbee7645-6887-ef11-8474-000d3a37e3b6",
+        "position": 6,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "READING, LANGUAGE, AND LITERATURE",
+        "groupId": "64147945-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "General Information for Liberal studies",
+        "groupId": "16ed7645-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>The California Commission on Teacher Credentialing requires Liberal Studies majors to complete an approved course in each of the following subjects with a grade of C-, credit, or better. Requirements may be met in GE, in the major, or in additional coursework (courses in the major and concentration must be taken for a letter grade).</p><p><br></p><p><strong><u>(Lower Division) Subject Matter Requirements include: </u></strong></p><p><strong>Reading, Language, and Literature</strong></p><ul><li>Oral Communication (Lower Division GE 1C)</li><li>Composition (Lower Division GE 1A)</li><li>Critical Thinking (Lower Division GE 1B)</li><li>Children\u2019s Literature<strong>*+</strong></li></ul><p><br></p><p><strong>History and Social Sciences</strong></p><ul><li>American Government (University Baccalaureate Degree Requirement)</li><li>California History<strong>*+</strong></li><li>Early U.S. History (Lower Division GE 4A)</li><li>Ancient World History<strong>*</strong></li><li>Geography<strong>*+</strong></li></ul><p><br></p><p><strong>Mathematics</strong></p><ul><li>Foundations I and II</li></ul><p><br></p><p><strong>Science</strong></p><ul><li>Chemistry<strong>*+\u2020</strong></li><li>Earth Science (Lower Division GE 5A)</li><li>Physics<strong>*+\u2020</strong></li><li>Physical Science Laboratory</li><li>Biological Science (Lower Division GE 5B)</li><li>Biological Science Laboratory (Lower Division GE 5C)</li></ul><p><br></p><p><strong>Visual and Performing Arts</strong></p><ul><li>Art<strong>*</strong></li><li>Music<strong>*</strong></li><li>Theatre<strong>*</strong></li><li>Activity courses (may cross-count with Art, Music, or Theatre subject matter, but must be in two different disciplines.)</li></ul><p><br></p><p><strong>*These areas can be satisfied at the community college with a lower-division course. However, choosing an upper-division course (course #3000-4999) upon transfer can satisfy university and/or major requirements in addition to subject matter. See areas below for course options.</strong></p><p><br></p><p><strong>+These areas can be postponed until after transfer</strong></p><p><br></p><p><strong>\u2020Contact the Liberal Studies Department for course selection.</strong></p><p><br></p><p><strong><u>US History/Constitution/American Ideas </u></strong></p><p>The courses that satisfy the CCTC requirement in Early U.S. History and American Government may differ from those community college courses certified for completion of the CSU's US History/Constitution/American Ideals requirement. See the community college catalogs for approved courses.</p>",
+        "groupId": "c0ff6f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 5,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "About Lower Division Major Requirements",
+        "groupId": "b3347445-6887-ef11-8474-000d3a37e3b6",
+        "position": 4,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p><strong>This agreement displays all lower-division courses required in the major</strong>: Stanislaus State courses or requirements on the left, approved transfer courses on the right.</p><p><br></p><p><strong style=\"font-size: 16px;\">Please note: Subject Matter Requirements for Liberal Studies are in course-to-REQUIREMENT form rather than course-to-course.</strong></p><p><br></p><p>The LIBS Department accepts additional courses NOT listed below. Students completing a course not listed below should refer to the <a href=\"https://catalog.csustan.edu/preview_entity.php?catoid=32&amp;ent_oid=1550\" rel=\"noopener noreferrer\" target=\"_blank\">Liberal Studies Department website</a> for information on petitions, advising forms and guides.</p><p><br></p><p><strong>Helpful Resources</strong>:</p><p><a href=\"https://catalog.csustan.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">Academic Catalog</a></p><p><a href=\"https://www.csustan.edu/undergrad/transfer\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Admissions</a></p><p><br></p><p>Questions regarding this agreement may be directed to the Stanislaus State Articulation Analyst. Please visit the <a href=\"https://www.csustan.edu/articulation\" rel=\"noopener noreferrer\" target=\"_blank\">Stanislaus State Articulation Website</a> for contact information.</p>",
+        "groupId": "f3417445-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "LIBERAL STUDIES PRE/CO-REQUISITES",
+        "groupId": "39f07645-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "Additional Information",
+        "groupId": "a7eb7645-6887-ef11-8474-000d3a37e3b6",
+        "position": 6,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "About the Major",
+        "groupId": "6cff6f45-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Liberal Studies B.A. Elementary Teaching Content Preparation Program is a pre-professional Subject Matter Preparation waiver program leading to enrollment in a Multiple Subject Credential Program (MSCP or Education Specialist Credential Program (ESCP). Successful completion of the major, with either a 2.67 overall grade point average or a 2.75 grade point average in the last 60 units fulfills all CCTC requirements for Subject Matter Competency. Please see the Chair of the <a href=\"https://catalog.csustan.edu/preview_entity.php?catoid=35&amp;ent_oid=1712\" rel=\"noopener noreferrer\" target=\"_blank\">Department of Liberal Studies</a> or the Coordinator of the Credential Program (<a href=\"https://catalog.csustan.edu/preview_entity.php?catoid=35&amp;ent_oid=1713\" rel=\"noopener noreferrer\" target=\"_blank\">Department of Teacher Education</a>) for specific details.</p><p><br></p><p>Liberal Studies majors may be admitted to the credential program prior to completing their bachelor degrees. Units in the credential program can be applied as upper-division elective credit toward satisfying the 120-unit requirement for graduation.</p><p><br></p><p>Currently, admission to the Stanislaus State MSCP requires either a 2.67 overall grade point average or a 2.75 grade point average in the last 60 units. Additional details and information pertaining to entrance into the credential program are available in the College of Education section of this catalog, and at the <a href=\"https://catalog.csustan.edu/preview_entity.php?catoid=35&amp;ent_oid=1713\" rel=\"noopener noreferrer\" target=\"_blank\">Department of Teacher Education</a> office. Students should consult with the Credential Services Office for changes in the precise requirements for admission to the credential program.</p><p><br></p><p><strong>Note</strong>: The California Commission on Teacher Credentialing (CCTC) is empowered to change credential requirements without prior notice. The University will make changes leading to the credential whenever revisions are required by the CCTC.</p><p><br></p><p><strong>The AA-T for Elementary Teacher Education</strong> is now the recommended pathway for students wishing to transfer to the Liberal Studies Major at Stanislaus State. Courses in the AA-T as well as additional courses listed below fulfill the Elementary Subject Matter Competency (in lieu of the CSET Multiple Subject exam) observing the following:</p><ol><li>Choosing from options satisfying the standard GE requirements can satisfy most of the Liberal Studies subject requirements. <strong>The Liberal Studies Department website provides the appropriate CSUS course selection and a Sample Road Map that combines CCTC requirements with the GE</strong>. All courses, excluding labs and unless otherwise noted, require a minimum of 3 semester units or approval of the Liberal Studies Department Chair.</li><li>Lower-division courses do not fulfill the upper-division major requirements.</li><li>The California Commission on Teacher Credentialing requires Liberal Studies Majors complete each of the Subject Matter Preparation Program Requirements with a grade of C- or better.</li><li>The courses that satisfy the CCTC requirement in Early U.S. History and American Government will differ from those community college courses certified for completion of the CSU\u2019s US History/Constitution/American Ideals requirement. See the community college catalogs for approved courses.</li></ol><p><br></p><p>View information for the <a href=\"https://catalog.csustan.edu/preview_program.php?catoid=35&amp;poid=7910&amp;returnto=6777\" rel=\"noopener noreferrer\" target=\"_blank\">Department of Liberal Studies</a>, including Learning Objectives for the department and its programs.</p>",
+        "groupId": "d61c7745-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>A concentration is required and must be approved by a concentration advisor. At least six units must be upper-division. Concentration courses require letter grades of C- or better. Please see the <a href=\"https://catalog.csustan.edu/preview_program.php?catoid=35&amp;poid=7910&amp;returnto=6777\" rel=\"noopener noreferrer\" target=\"_blank\">Liberal Studies B.A.</a> webpage in the Stanislaus State Academic Catalog for the most recent list of approved concentrations.</p><p><br></p><p>Up to six (6) semester units of introduction to education courses for any one student from community colleges may transfer to the CSU (Title 5, Section 40409 [b] California Code of Regulations.) Lower-division introductory education courses cover introduction to teaching and credential programs, tutoring methods and tutoring in school settings, classroom observations, and analysis of classroom management techniques and teaching effectiveness. See directly below for course options.</p>",
+        "groupId": "6e667445-6887-ef11-8474-000d3a37e3b6",
+        "position": 7,
+        "area": "General"
+      }
+    ],
+    "articulations": [
+      {
+        "templateCellId": "a8e52a42-f335-4246-263c-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Human Development"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Comparable Course",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "c5d216d1-d4d5-42e8-306a-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": "No Comparable Course",
+                "deniedCourses": [],
+                "items": [],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "4cf3f6e4-c54b-4492-2640-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Oral Communication"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 253717,
+                    "courseTitle": "Introduction to Public Speaking",
+                    "courseNumber": "C1000",
+                    "prefix": "COMM",
+                    "prefixParentId": 4367,
+                    "prefixDescription": "Communication Studies",
+                    "departmentParentId": 13310,
+                    "department": "Communication Studies",
+                    "begin": "F2025",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 267,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 281189,
+                    "courseTitle": "Fundamentals of Oral Communication",
+                    "courseNumber": "10",
+                    "prefix": "COMM",
+                    "prefixParentId": 4367,
+                    "prefixDescription": "Communication Studies",
+                    "departmentParentId": 13310,
+                    "department": "Communication Studies",
+                    "begin": "F2017",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 267,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "5ff2a260-9ecb-4115-306e-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 253717,
+                        "courseTitle": "Introduction to Public Speaking",
+                        "courseNumber": "C1000",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 281189,
+                        "courseTitle": "Fundamentals of Oral Communication",
+                        "courseNumber": "10",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2017",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            },
+            {
+              "id": "46f1f7f3-cb85-4001-306f-08ddcef9d65f",
+              "variantIds": [
+                "eee60dc3-1981-47c5-529c-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 253717,
+                        "courseTitle": "Introduction to Public Speaking",
+                        "courseNumber": "C1000",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 305270,
+                        "courseTitle": "Introduction to Public Speaking - Honors",
+                        "courseNumber": "C1000H",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 281189,
+                        "courseTitle": "Fundamentals of Oral Communication",
+                        "courseNumber": "10",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2017",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 2,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 305274,
+                        "courseTitle": "Fundamentals of Oral Communication - HONORS",
+                        "courseNumber": "10H",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2017",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 3,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "764f6c01-5728-4f31-2641-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Composition"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 359063,
+                    "courseTitle": "Advanced Composition and Reading",
+                    "courseNumber": "5",
+                    "prefix": "ESL",
+                    "prefixParentId": 4209,
+                    "prefixDescription": "English As a Second Language",
+                    "departmentParentId": 5143,
+                    "department": "English As a Second Language",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 179,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 281338,
+                    "courseTitle": "Academic Reading and Writing",
+                    "courseNumber": "C1000",
+                    "prefix": "ENGL",
+                    "prefixParentId": 18741,
+                    "prefixDescription": "English",
+                    "departmentParentId": 15392,
+                    "department": "English",
+                    "begin": "F2025",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 195,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "54374217-c601-4c93-306c-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 359063,
+                        "courseTitle": "Advanced Composition and Reading",
+                        "courseNumber": "5",
+                        "prefix": "ESL",
+                        "prefixParentId": 4209,
+                        "prefixDescription": "English As a Second Language",
+                        "departmentParentId": 5143,
+                        "department": "English As a Second Language",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 281338,
+                        "courseTitle": "Academic Reading and Writing",
+                        "courseNumber": "C1000",
+                        "prefix": "ENGL",
+                        "prefixParentId": 18741,
+                        "prefixDescription": "English",
+                        "departmentParentId": 15392,
+                        "department": "English",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 195,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            },
+            {
+              "id": "92a1bea8-2a7d-4664-306d-08ddcef9d65f",
+              "variantIds": [
+                "eee60dc3-1981-47c5-529c-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 359063,
+                        "courseTitle": "Advanced Composition and Reading",
+                        "courseNumber": "5",
+                        "prefix": "ESL",
+                        "prefixParentId": 4209,
+                        "prefixDescription": "English As a Second Language",
+                        "departmentParentId": 5143,
+                        "department": "English As a Second Language",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 281338,
+                        "courseTitle": "Academic Reading and Writing",
+                        "courseNumber": "C1000",
+                        "prefix": "ENGL",
+                        "prefixParentId": 18741,
+                        "prefixDescription": "English",
+                        "departmentParentId": 15392,
+                        "department": "English",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 195,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 360066,
+                        "courseTitle": "Academic Reading and Writing - HONORS",
+                        "courseNumber": "C1000H",
+                        "prefix": "ENGL",
+                        "prefixParentId": 18741,
+                        "prefixDescription": "English",
+                        "departmentParentId": 15392,
+                        "department": "English",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 259,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 2,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "94fe7d95-1ac1-4acc-2642-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Critical Thinking"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 308237,
+                    "courseTitle": " Critical Thinking and Writing ",
+                    "courseNumber": "C1001",
+                    "prefix": "ENGL",
+                    "prefixParentId": 18741,
+                    "prefixDescription": "English",
+                    "departmentParentId": 15392,
+                    "department": "English",
+                    "begin": "F2025",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 195,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 302737,
+                    "courseTitle": "Critical Thinking and Writing",
+                    "courseNumber": "3",
+                    "prefix": "PHIL",
+                    "prefixParentId": 5487,
+                    "prefixDescription": "Philosophy",
+                    "departmentParentId": 10175,
+                    "department": "Philosophy",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 179,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 290438,
+                    "courseTitle": "Critical Thinking",
+                    "courseNumber": "4",
+                    "prefix": "PHIL",
+                    "prefixParentId": 5487,
+                    "prefixDescription": "Philosophy",
+                    "departmentParentId": 10175,
+                    "department": "Philosophy",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 179,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 2,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 253827,
+                    "courseTitle": "Deductive Logic",
+                    "courseNumber": "7",
+                    "prefix": "PHIL",
+                    "prefixParentId": 5487,
+                    "prefixDescription": "Philosophy",
+                    "departmentParentId": 10175,
+                    "department": "Philosophy",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 179,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 3,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 253714,
+                    "courseTitle": "Argumentation and Critical Inquiry in Oral Communication",
+                    "courseNumber": "8",
+                    "prefix": "COMM",
+                    "prefixParentId": 4367,
+                    "prefixDescription": "Communication Studies",
+                    "departmentParentId": 13310,
+                    "department": "Communication Studies",
+                    "begin": "F2017",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 267,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 4,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 280473,
+                    "courseTitle": "Argumentation: Analysis of Oral and Written Communication",
+                    "courseNumber": "9",
+                    "prefix": "COMM",
+                    "prefixParentId": 4367,
+                    "prefixDescription": "Communication Studies",
+                    "departmentParentId": 13310,
+                    "department": "Communication Studies",
+                    "begin": "F2017",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 267,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 5,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 288525,
+                    "courseTitle": "Critical Decision-Making in Groups",
+                    "courseNumber": "15",
+                    "prefix": "COMM",
+                    "prefixParentId": 4367,
+                    "prefixDescription": "Communication Studies",
+                    "departmentParentId": 13310,
+                    "department": "Communication Studies",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 267,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 6,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "9b231b42-4639-4b47-3071-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 308237,
+                        "courseTitle": " Critical Thinking and Writing ",
+                        "courseNumber": "C1001",
+                        "prefix": "ENGL",
+                        "prefixParentId": 18741,
+                        "prefixDescription": "English",
+                        "departmentParentId": 15392,
+                        "department": "English",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 195,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 302737,
+                        "courseTitle": "Critical Thinking and Writing",
+                        "courseNumber": "3",
+                        "prefix": "PHIL",
+                        "prefixParentId": 5487,
+                        "prefixDescription": "Philosophy",
+                        "departmentParentId": 10175,
+                        "department": "Philosophy",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 290438,
+                        "courseTitle": "Critical Thinking",
+                        "courseNumber": "4",
+                        "prefix": "PHIL",
+                        "prefixParentId": 5487,
+                        "prefixDescription": "Philosophy",
+                        "departmentParentId": 10175,
+                        "department": "Philosophy",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 2,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 253827,
+                        "courseTitle": "Deductive Logic",
+                        "courseNumber": "7",
+                        "prefix": "PHIL",
+                        "prefixParentId": 5487,
+                        "prefixDescription": "Philosophy",
+                        "departmentParentId": 10175,
+                        "department": "Philosophy",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 3,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 253714,
+                        "courseTitle": "Argumentation and Critical Inquiry in Oral Communication",
+                        "courseNumber": "8",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2017",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 4,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 280473,
+                        "courseTitle": "Argumentation: Analysis of Oral and Written Communication",
+                        "courseNumber": "9",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2017",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 5,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 288525,
+                        "courseTitle": "Critical Decision-Making in Groups",
+                        "courseNumber": "15",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2024",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 6,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            },
+            {
+              "id": "0f561563-d658-4999-3072-08ddcef9d65f",
+              "variantIds": [
+                "eee60dc3-1981-47c5-529c-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 253714,
+                        "courseTitle": "Argumentation and Critical Inquiry in Oral Communication",
+                        "courseNumber": "8",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2017",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 288767,
+                        "courseTitle": "Argumentation and Critical Inquiry in Oral Communication - HONORS",
+                        "courseNumber": "8H",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2017",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 280473,
+                        "courseTitle": "Argumentation: Analysis of Oral and Written Communication",
+                        "courseNumber": "9",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2017",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 2,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 363590,
+                        "courseTitle": "Argumentation: Analysis of Oral and Written Communication - HONORS",
+                        "courseNumber": "9H",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2018",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 271,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 3,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 288525,
+                        "courseTitle": "Critical Decision-Making in Groups",
+                        "courseNumber": "15",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2024",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 4,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 305275,
+                        "courseTitle": "Critical Decision-Making in Groups - HONORS",
+                        "courseNumber": "15H",
+                        "prefix": "COMM",
+                        "prefixParentId": 4367,
+                        "prefixDescription": "Communication Studies",
+                        "departmentParentId": 13310,
+                        "department": "Communication Studies",
+                        "begin": "F2024",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 5,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 308237,
+                        "courseTitle": " Critical Thinking and Writing ",
+                        "courseNumber": "C1001",
+                        "prefix": "ENGL",
+                        "prefixParentId": 18741,
+                        "prefixDescription": "English",
+                        "departmentParentId": 15392,
+                        "department": "English",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 195,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 6,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 360067,
+                        "courseTitle": "Critical Thinking and Writing - HONORS ",
+                        "courseNumber": "C1001H",
+                        "prefix": "ENGL",
+                        "prefixParentId": 18741,
+                        "prefixDescription": "English",
+                        "departmentParentId": 15392,
+                        "department": "English",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 259,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 7,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 302737,
+                        "courseTitle": "Critical Thinking and Writing",
+                        "courseNumber": "3",
+                        "prefix": "PHIL",
+                        "prefixParentId": 5487,
+                        "prefixDescription": "Philosophy",
+                        "departmentParentId": 10175,
+                        "department": "Philosophy",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 8,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 290438,
+                        "courseTitle": "Critical Thinking",
+                        "courseNumber": "4",
+                        "prefix": "PHIL",
+                        "prefixParentId": 5487,
+                        "prefixDescription": "Philosophy",
+                        "departmentParentId": 10175,
+                        "department": "Philosophy",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 9,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 253827,
+                        "courseTitle": "Deductive Logic",
+                        "courseNumber": "7",
+                        "prefix": "PHIL",
+                        "prefixParentId": 5487,
+                        "prefixDescription": "Philosophy",
+                        "departmentParentId": 10175,
+                        "department": "Philosophy",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 10,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 368049,
+                        "courseTitle": "Deductive Logic - HONORS",
+                        "courseNumber": "7H",
+                        "prefix": "PHIL",
+                        "prefixParentId": 5487,
+                        "prefixDescription": "Philosophy",
+                        "departmentParentId": 10175,
+                        "department": "Philosophy",
+                        "begin": "F2019",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 275,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 11,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 372725,
+                        "courseTitle": "Academic Literacy and Ethos",
+                        "courseNumber": "10",
+                        "prefix": "READ",
+                        "prefixParentId": 4773,
+                        "prefixDescription": "Reading",
+                        "departmentParentId": 11482,
+                        "department": "Reading",
+                        "begin": "F2023",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 291,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 12,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "e12cb39e-9f33-4cc8-2643-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Children's Literature"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Comparable Course",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "39df116d-a587-4f6a-3070-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": "No Comparable Course",
+                "deniedCourses": [],
+                "items": [],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "f6edde36-b979-4e6c-2644-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "American Government"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 282754,
+                    "courseTitle": "American Government and Politics",
+                    "courseNumber": "C1000",
+                    "prefix": "POLS",
+                    "prefixParentId": 18724,
+                    "prefixDescription": "Political Science",
+                    "departmentParentId": 11018,
+                    "department": "Political Science",
+                    "begin": "F2025",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 267,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "2afb341f-cc64-48b5-3073-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 282754,
+                        "courseTitle": "American Government and Politics",
+                        "courseNumber": "C1000",
+                        "prefix": "POLS",
+                        "prefixParentId": 18724,
+                        "prefixDescription": "Political Science",
+                        "departmentParentId": 11018,
+                        "department": "Political Science",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 267,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "81e27a1d-bdee-43ad-2645-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "California History"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Comparable Course",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "a80663cd-e291-42e7-3075-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": "No Comparable Course",
+                "deniedCourses": [],
+                "items": [],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "094fd6c3-8d49-4a9e-2646-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Early U.S. History"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Comparable Course",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "f08488af-5c30-4dfe-3074-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": "No Comparable Course",
+                "deniedCourses": [],
+                "items": [],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "d0108441-ec97-4b59-2647-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Ancient World History"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 294888,
+                    "courseTitle": "World History from Prehistory to 750 CE",
+                    "courseNumber": "3A",
+                    "prefix": "HIST",
+                    "prefixParentId": 3013,
+                    "prefixDescription": "History",
+                    "departmentParentId": 7009,
+                    "department": "History",
+                    "begin": "F2015",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 259,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "a305d527-4202-4855-3076-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 294888,
+                        "courseTitle": "World History from Prehistory to 750 CE",
+                        "courseNumber": "3A",
+                        "prefix": "HIST",
+                        "prefixParentId": 3013,
+                        "prefixDescription": "History",
+                        "departmentParentId": 7009,
+                        "department": "History",
+                        "begin": "F2015",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 259,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "156d9746-621e-4b0b-2648-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Geography"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 283033,
+                    "courseTitle": "Physical Geography",
+                    "courseNumber": "1",
+                    "prefix": "GEO",
+                    "prefixParentId": 10601,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 6120,
+                    "department": "Geography",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 179,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 298844,
+                    "courseTitle": "Cultural Geography",
+                    "courseNumber": "4",
+                    "prefix": "GEO",
+                    "prefixParentId": 10601,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 6120,
+                    "department": "Geography",
+                    "begin": "F2004",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 215,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 288590,
+                    "courseTitle": "World Regional Geography",
+                    "courseNumber": "10",
+                    "prefix": "GEO",
+                    "prefixParentId": 10601,
+                    "prefixDescription": "Geography",
+                    "departmentParentId": 6120,
+                    "department": "Geography",
+                    "begin": "F2003",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 211,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 2,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "05d3c998-99d7-4b75-3077-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 283033,
+                        "courseTitle": "Physical Geography",
+                        "courseNumber": "1",
+                        "prefix": "GEO",
+                        "prefixParentId": 10601,
+                        "prefixDescription": "Geography",
+                        "departmentParentId": 6120,
+                        "department": "Geography",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 298844,
+                        "courseTitle": "Cultural Geography",
+                        "courseNumber": "4",
+                        "prefix": "GEO",
+                        "prefixParentId": 10601,
+                        "prefixDescription": "Geography",
+                        "departmentParentId": 6120,
+                        "department": "Geography",
+                        "begin": "F2004",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 215,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 288590,
+                        "courseTitle": "World Regional Geography",
+                        "courseNumber": "10",
+                        "prefix": "GEO",
+                        "prefixParentId": 10601,
+                        "prefixDescription": "Geography",
+                        "departmentParentId": 6120,
+                        "department": "Geography",
+                        "begin": "F2003",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 211,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 2,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "962f1a31-0efa-47eb-2649-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "MATH Foundations I"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "272e36ff-9fb6-46f1-b625-08ddcef9db65",
+                        "publishedCourseIdentifierYearTermId": 203,
+                        "courseIdentifierParentId": 282332,
+                        "courseTitle": "Mathematics for Elementary Education",
+                        "courseNumber": "46",
+                        "prefix": "EDUC",
+                        "prefixParentId": 7355,
+                        "prefixDescription": "Education",
+                        "departmentParentId": 4434,
+                        "department": "Education",
+                        "begin": "F2001",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 282333,
+                    "courseTitle": "Mathematics for Elementary Education",
+                    "courseNumber": "46",
+                    "prefix": "MATH",
+                    "prefixParentId": 10025,
+                    "prefixDescription": "Mathematics",
+                    "departmentParentId": 9040,
+                    "department": "Mathematics",
+                    "begin": "F2001",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 203,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "c778ab2b-840f-48ae-3078-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [
+                          {
+                            "id": "272e36ff-9fb6-46f1-b625-08ddcef9db65",
+                            "publishedCourseIdentifierYearTermId": 203,
+                            "courseIdentifierParentId": 282332,
+                            "courseTitle": "Mathematics for Elementary Education",
+                            "courseNumber": "46",
+                            "prefix": "EDUC",
+                            "prefixParentId": 7355,
+                            "prefixDescription": "Education",
+                            "departmentParentId": 4434,
+                            "department": "Education",
+                            "begin": "F2001",
+                            "end": "",
+                            "minUnits": 5.0,
+                            "maxUnits": 5.0,
+                            "pathways": []
+                          }
+                        ],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 282333,
+                        "courseTitle": "Mathematics for Elementary Education",
+                        "courseNumber": "46",
+                        "prefix": "MATH",
+                        "prefixParentId": 10025,
+                        "prefixDescription": "Mathematics",
+                        "departmentParentId": 9040,
+                        "department": "Mathematics",
+                        "begin": "F2001",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 203,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "6aa73e06-7c20-4307-264a-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "MATH Foundations II"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Comparable Course",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "ad2950fc-eb92-4b40-307a-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": "No Comparable Course",
+                "deniedCourses": [],
+                "items": [],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "ee482f52-8310-4728-264b-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Chemistry"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Comparable Course",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "3e2e440b-53d7-4dda-3080-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": "No Comparable Course",
+                "deniedCourses": [],
+                "items": [],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "e806dca9-3df3-454c-264c-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Earth Science"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 308128,
+                    "courseTitle": "Introductory Geology",
+                    "courseNumber": "10",
+                    "prefix": "GEOL",
+                    "prefixParentId": 11330,
+                    "prefixDescription": "Geology",
+                    "departmentParentId": 6352,
+                    "department": "Geology",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 179,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 301479,
+                    "courseTitle": "General Oceanography",
+                    "courseNumber": "20",
+                    "prefix": "GEOL",
+                    "prefixParentId": 11330,
+                    "prefixDescription": "Geology",
+                    "departmentParentId": 6352,
+                    "department": "Geology",
+                    "begin": "F2009",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 235,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "9e13f5b5-aa0a-454a-307c-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 308128,
+                        "courseTitle": "Introductory Geology",
+                        "courseNumber": "10",
+                        "prefix": "GEOL",
+                        "prefixParentId": 11330,
+                        "prefixDescription": "Geology",
+                        "departmentParentId": 6352,
+                        "department": "Geology",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 301479,
+                        "courseTitle": "General Oceanography",
+                        "courseNumber": "20",
+                        "prefix": "GEOL",
+                        "prefixParentId": 11330,
+                        "prefixDescription": "Geology",
+                        "departmentParentId": 6352,
+                        "department": "Geology",
+                        "begin": "F2009",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 235,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "a4d51c02-cc97-4ae5-264d-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Physics"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Comparable Course",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "607076d2-2c1f-4d24-307d-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": "No Comparable Course",
+                "deniedCourses": [],
+                "items": [],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "9bc13d2a-d0aa-4c0f-264e-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Physics Laboratory"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Comparable Course",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "52e63d43-2dc8-45b0-307e-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": "No Comparable Course",
+                "deniedCourses": [],
+                "items": [],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "f9f76e46-96db-4130-264f-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Biological Sciences"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 282638,
+                    "courseTitle": "Introductory Biology",
+                    "courseNumber": "10",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4926,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1741,
+                    "department": "Biology",
+                    "begin": "F1998",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 191,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 247121,
+                    "courseTitle": "Human Biology",
+                    "courseNumber": "11",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4926,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1741,
+                    "department": "Biology",
+                    "begin": "F1998",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 191,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 277589,
+                    "courseTitle": "Human Anatomy and Physiology III",
+                    "courseNumber": "40C",
+                    "prefix": "BIOL",
+                    "prefixParentId": 4926,
+                    "prefixDescription": "Biology",
+                    "departmentParentId": 1741,
+                    "department": "Biology",
+                    "begin": "F2025",
+                    "end": "",
+                    "minUnits": 5.0,
+                    "maxUnits": 5.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 199,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 2,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "277d69bb-27ae-485b-3079-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 282638,
+                        "courseTitle": "Introductory Biology",
+                        "courseNumber": "10",
+                        "prefix": "BIOL",
+                        "prefixParentId": 4926,
+                        "prefixDescription": "Biology",
+                        "departmentParentId": 1741,
+                        "department": "Biology",
+                        "begin": "F1998",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 191,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 247121,
+                        "courseTitle": "Human Biology",
+                        "courseNumber": "11",
+                        "prefix": "BIOL",
+                        "prefixParentId": 4926,
+                        "prefixDescription": "Biology",
+                        "departmentParentId": 1741,
+                        "department": "Biology",
+                        "begin": "F1998",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 191,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 277589,
+                        "courseTitle": "Human Anatomy and Physiology III",
+                        "courseNumber": "40C",
+                        "prefix": "BIOL",
+                        "prefixParentId": 4926,
+                        "prefixDescription": "Biology",
+                        "departmentParentId": 1741,
+                        "department": "Biology",
+                        "begin": "F2025",
+                        "end": "",
+                        "minUnits": 5.0,
+                        "maxUnits": 5.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 199,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 2,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "a58be699-44e6-4e1a-2650-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Biological Sciences Laboratory"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": "No Comparable Course",
+            "deniedCourses": [],
+            "items": [],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "2086f48d-ce0e-408a-307b-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": "No Comparable Course",
+                "deniedCourses": [],
+                "items": [],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "65524cb3-f813-42f7-2651-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Art"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 290756,
+                    "courseTitle": "Introduction to the Visual Arts",
+                    "courseNumber": "1A",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 179,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 254925,
+                    "courseTitle": "Architecture Past and Present",
+                    "courseNumber": "1B",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F1995",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 179,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 254867,
+                    "courseTitle": "History of Art: Europe from Prehistory through Early Christianity",
+                    "courseNumber": "2A",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 263,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 2,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 253849,
+                    "courseTitle": "History of Art: Europe During the Middle Ages and the Renaissance",
+                    "courseNumber": "2B",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 263,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 3,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 281454,
+                    "courseTitle": "History of Art: Europe from the Baroque Period through Impressionism",
+                    "courseNumber": "2C",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 263,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 4,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 289337,
+                    "courseTitle": "History of Art: Europe and the United States from Post-Impressionism to the Present",
+                    "courseNumber": "2D",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 263,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 5,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "9e0c7422-42e7-40e6-b626-08ddcef9db65",
+                        "publishedCourseIdentifierYearTermId": 283,
+                        "courseIdentifierParentId": 253927,
+                        "courseTitle": "History of Art (Multicultural Arts in the United States)",
+                        "courseNumber": "13",
+                        "prefix": "CETH",
+                        "prefixParentId": 16886,
+                        "prefixDescription": "Comparative Ethnic Studies",
+                        "departmentParentId": 13991,
+                        "department": "Comparative Ethnic Studies",
+                        "begin": "F2024",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 253928,
+                    "courseTitle": "History of Art (Multicultural Arts in the United States)",
+                    "courseNumber": "2F",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 283,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 6,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "17819ce5-085c-4032-b627-08ddcef9db65",
+                        "publishedCourseIdentifierYearTermId": 283,
+                        "courseIdentifierParentId": 353552,
+                        "courseTitle": "History of Art: Arts of Asia",
+                        "courseNumber": "40",
+                        "prefix": "ASAM",
+                        "prefixParentId": 16555,
+                        "prefixDescription": "Asian American and Asian Studies",
+                        "departmentParentId": 13706,
+                        "department": "Asian American and Asian Studies",
+                        "begin": "F2021",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 353553,
+                    "courseTitle": "History of Art: Arts of Asia",
+                    "courseNumber": "2G",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 263,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 7,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "e8083bc2-480c-4c00-b628-08ddcef9db65",
+                        "publishedCourseIdentifierYearTermId": 283,
+                        "courseIdentifierParentId": 266302,
+                        "courseTitle": "History of Art: Native Arts of Mesoamerica and the Andes",
+                        "courseNumber": "21",
+                        "prefix": "INTL",
+                        "prefixParentId": 767,
+                        "prefixDescription": "International Studies",
+                        "departmentParentId": 7709,
+                        "department": "International Studies",
+                        "begin": "F2021",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 266303,
+                    "courseTitle": "History of Art: Native Arts of Mesoamerica and the Andes",
+                    "courseNumber": "2H",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2016",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 263,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 8,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "e7829a6f-62f7-488e-b629-08ddcef9db65",
+                        "publishedCourseIdentifierYearTermId": 283,
+                        "courseIdentifierParentId": 296554,
+                        "courseTitle": "History of Art: Arts of Africa, Oceania and Native North America",
+                        "courseNumber": "22",
+                        "prefix": "INTL",
+                        "prefixParentId": 767,
+                        "prefixDescription": "International Studies",
+                        "departmentParentId": 7709,
+                        "department": "International Studies",
+                        "begin": "F2021",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 296555,
+                    "courseTitle": "History of Art: Arts of Africa, Oceania and Native North America",
+                    "courseNumber": "2J",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2021",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 283,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 9,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [
+                      {
+                        "id": "5491837c-d7b0-4ec5-b62a-08ddcef9db65",
+                        "publishedCourseIdentifierYearTermId": 239,
+                        "courseIdentifierParentId": 355233,
+                        "courseTitle": "Women and Art",
+                        "courseNumber": "3C",
+                        "prefix": "WMST",
+                        "prefixParentId": 11816,
+                        "prefixDescription": "Women's Studies",
+                        "departmentParentId": 13150,
+                        "department": "Women's Studies",
+                        "begin": "F2010",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": []
+                      }
+                    ],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 355232,
+                    "courseTitle": "Women and Art",
+                    "courseNumber": "3TC",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2010",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 239,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 10,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 262209,
+                    "courseTitle": "Today's Art Scene",
+                    "courseNumber": "3TE",
+                    "prefix": "ARTS",
+                    "prefixParentId": 4538,
+                    "prefixDescription": "Arts",
+                    "departmentParentId": 1240,
+                    "department": "Arts",
+                    "begin": "F2013",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 251,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 11,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "e2ffb276-4a6d-425b-307f-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 290756,
+                        "courseTitle": "Introduction to the Visual Arts",
+                        "courseNumber": "1A",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 254925,
+                        "courseTitle": "Architecture Past and Present",
+                        "courseNumber": "1B",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F1995",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 254867,
+                        "courseTitle": "History of Art: Europe from Prehistory through Early Christianity",
+                        "courseNumber": "2A",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2016",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 263,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 2,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 253849,
+                        "courseTitle": "History of Art: Europe During the Middle Ages and the Renaissance",
+                        "courseNumber": "2B",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2016",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 263,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 3,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 281454,
+                        "courseTitle": "History of Art: Europe from the Baroque Period through Impressionism",
+                        "courseNumber": "2C",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2016",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 263,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 4,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 289337,
+                        "courseTitle": "History of Art: Europe and the United States from Post-Impressionism to the Present",
+                        "courseNumber": "2D",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2016",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 263,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 5,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [
+                          {
+                            "id": "9e0c7422-42e7-40e6-b626-08ddcef9db65",
+                            "publishedCourseIdentifierYearTermId": 283,
+                            "courseIdentifierParentId": 253927,
+                            "courseTitle": "History of Art (Multicultural Arts in the United States)",
+                            "courseNumber": "13",
+                            "prefix": "CETH",
+                            "prefixParentId": 16886,
+                            "prefixDescription": "Comparative Ethnic Studies",
+                            "departmentParentId": 13991,
+                            "department": "Comparative Ethnic Studies",
+                            "begin": "F2024",
+                            "end": "",
+                            "minUnits": 4.0,
+                            "maxUnits": 4.0,
+                            "pathways": []
+                          }
+                        ],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 253928,
+                        "courseTitle": "History of Art (Multicultural Arts in the United States)",
+                        "courseNumber": "2F",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2024",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 283,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 6,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [
+                          {
+                            "id": "17819ce5-085c-4032-b627-08ddcef9db65",
+                            "publishedCourseIdentifierYearTermId": 283,
+                            "courseIdentifierParentId": 353552,
+                            "courseTitle": "History of Art: Arts of Asia",
+                            "courseNumber": "40",
+                            "prefix": "ASAM",
+                            "prefixParentId": 16555,
+                            "prefixDescription": "Asian American and Asian Studies",
+                            "departmentParentId": 13706,
+                            "department": "Asian American and Asian Studies",
+                            "begin": "F2021",
+                            "end": "",
+                            "minUnits": 4.0,
+                            "maxUnits": 4.0,
+                            "pathways": []
+                          }
+                        ],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 353553,
+                        "courseTitle": "History of Art: Arts of Asia",
+                        "courseNumber": "2G",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2016",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 263,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 7,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [
+                          {
+                            "id": "e8083bc2-480c-4c00-b628-08ddcef9db65",
+                            "publishedCourseIdentifierYearTermId": 283,
+                            "courseIdentifierParentId": 266302,
+                            "courseTitle": "History of Art: Native Arts of Mesoamerica and the Andes",
+                            "courseNumber": "21",
+                            "prefix": "INTL",
+                            "prefixParentId": 767,
+                            "prefixDescription": "International Studies",
+                            "departmentParentId": 7709,
+                            "department": "International Studies",
+                            "begin": "F2021",
+                            "end": "",
+                            "minUnits": 4.0,
+                            "maxUnits": 4.0,
+                            "pathways": []
+                          }
+                        ],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 266303,
+                        "courseTitle": "History of Art: Native Arts of Mesoamerica and the Andes",
+                        "courseNumber": "2H",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2016",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 263,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 8,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [
+                          {
+                            "id": "e7829a6f-62f7-488e-b629-08ddcef9db65",
+                            "publishedCourseIdentifierYearTermId": 283,
+                            "courseIdentifierParentId": 296554,
+                            "courseTitle": "History of Art: Arts of Africa, Oceania and Native North America",
+                            "courseNumber": "22",
+                            "prefix": "INTL",
+                            "prefixParentId": 767,
+                            "prefixDescription": "International Studies",
+                            "departmentParentId": 7709,
+                            "department": "International Studies",
+                            "begin": "F2021",
+                            "end": "",
+                            "minUnits": 4.0,
+                            "maxUnits": 4.0,
+                            "pathways": []
+                          }
+                        ],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 296555,
+                        "courseTitle": "History of Art: Arts of Africa, Oceania and Native North America",
+                        "courseNumber": "2J",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2021",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 283,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 9,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [
+                          {
+                            "id": "5491837c-d7b0-4ec5-b62a-08ddcef9db65",
+                            "publishedCourseIdentifierYearTermId": 239,
+                            "courseIdentifierParentId": 355233,
+                            "courseTitle": "Women and Art",
+                            "courseNumber": "3C",
+                            "prefix": "WMST",
+                            "prefixParentId": 11816,
+                            "prefixDescription": "Women's Studies",
+                            "departmentParentId": 13150,
+                            "department": "Women's Studies",
+                            "begin": "F2010",
+                            "end": "",
+                            "minUnits": 4.0,
+                            "maxUnits": 4.0,
+                            "pathways": []
+                          }
+                        ],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 355232,
+                        "courseTitle": "Women and Art",
+                        "courseNumber": "3TC",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2010",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 239,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 10,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 262209,
+                        "courseTitle": "Today's Art Scene",
+                        "courseNumber": "3TE",
+                        "prefix": "ARTS",
+                        "prefixParentId": 4538,
+                        "prefixDescription": "Arts",
+                        "departmentParentId": 1240,
+                        "department": "Arts",
+                        "begin": "F2013",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 251,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 11,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "b7ef3550-c629-4cc9-2652-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Music"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 280124,
+                    "courseTitle": "Music Appreciation: Music in Western Cultures",
+                    "courseNumber": "1A",
+                    "prefix": "MUSI",
+                    "prefixParentId": 6626,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9469,
+                    "department": "Music",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 247468,
+                    "courseTitle": "Music Appreciation: Jazz Styles",
+                    "courseNumber": "1B",
+                    "prefix": "MUSI",
+                    "prefixParentId": 6626,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9469,
+                    "department": "Music",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 1,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 260574,
+                    "courseTitle": "Music Appreciation: World Music in America",
+                    "courseNumber": "1C",
+                    "prefix": "MUSI",
+                    "prefixParentId": 6626,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9469,
+                    "department": "Music",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 2,
+                "type": "CourseGroup"
+              },
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 271224,
+                    "courseTitle": "Music Appreciation: Rock - From Roots to Rap",
+                    "courseNumber": "1D",
+                    "prefix": "MUSI",
+                    "prefixParentId": 6626,
+                    "prefixDescription": "Music",
+                    "departmentParentId": 9469,
+                    "department": "Music",
+                    "begin": "F2018",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 271,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 3,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "c1478593-4e66-4647-3082-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 280124,
+                        "courseTitle": "Music Appreciation: Music in Western Cultures",
+                        "courseNumber": "1A",
+                        "prefix": "MUSI",
+                        "prefixParentId": 6626,
+                        "prefixDescription": "Music",
+                        "departmentParentId": 9469,
+                        "department": "Music",
+                        "begin": "F2018",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 271,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 247468,
+                        "courseTitle": "Music Appreciation: Jazz Styles",
+                        "courseNumber": "1B",
+                        "prefix": "MUSI",
+                        "prefixParentId": 6626,
+                        "prefixDescription": "Music",
+                        "departmentParentId": 9469,
+                        "department": "Music",
+                        "begin": "F2018",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 271,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 1,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 260574,
+                        "courseTitle": "Music Appreciation: World Music in America",
+                        "courseNumber": "1C",
+                        "prefix": "MUSI",
+                        "prefixParentId": 6626,
+                        "prefixDescription": "Music",
+                        "departmentParentId": 9469,
+                        "department": "Music",
+                        "begin": "F2018",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 271,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 2,
+                    "type": "CourseGroup"
+                  },
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 271224,
+                        "courseTitle": "Music Appreciation: Rock - From Roots to Rap",
+                        "courseNumber": "1D",
+                        "prefix": "MUSI",
+                        "prefixParentId": 6626,
+                        "prefixDescription": "Music",
+                        "departmentParentId": 9469,
+                        "department": "Music",
+                        "begin": "F2018",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 271,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 3,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      },
+      {
+        "templateCellId": "ad683eb3-2929-4e04-2653-08ddcef9aed6",
+        "articulation": {
+          "type": "Requirement",
+          "requirement": {
+            "name": "Theatre"
+          },
+          "requirementAttributes": [],
+          "sendingArticulation": {
+            "noArticulationReason": null,
+            "deniedCourses": [],
+            "items": [
+              {
+                "courseConjunction": "And",
+                "items": [
+                  {
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "attributes": [],
+                    "courseIdentifierParentId": 253811,
+                    "courseTitle": "Appreciation of Theatre",
+                    "courseNumber": "1",
+                    "prefix": "THEA",
+                    "prefixParentId": 2428,
+                    "prefixDescription": "Theater Arts",
+                    "departmentParentId": 12812,
+                    "department": "Theater Arts",
+                    "begin": "F2024",
+                    "end": "",
+                    "minUnits": 4.0,
+                    "maxUnits": 4.0,
+                    "pathways": [],
+                    "publishedCourseIdentifierYearTermId": 179,
+                    "position": 0,
+                    "type": "Course"
+                  }
+                ],
+                "attributes": [],
+                "position": 0,
+                "type": "CourseGroup"
+              }
+            ],
+            "courseGroupConjunctions": [],
+            "type": "TemplateOverride",
+            "attributes": []
+          },
+          "templateOverrides": [
+            {
+              "id": "b7ccd658-f329-43e7-3081-08ddcef9d65f",
+              "variantIds": [
+                "22bfeff4-0074-4119-5288-08ddcef9ae59"
+              ],
+              "sendingArticulation": {
+                "noArticulationReason": null,
+                "deniedCourses": [],
+                "items": [
+                  {
+                    "courseConjunction": "And",
+                    "items": [
+                      {
+                        "visibleCrossListedCourses": [],
+                        "requisites": [],
+                        "attributes": [],
+                        "courseIdentifierParentId": 253811,
+                        "courseTitle": "Appreciation of Theatre",
+                        "courseNumber": "1",
+                        "prefix": "THEA",
+                        "prefixParentId": 2428,
+                        "prefixDescription": "Theater Arts",
+                        "departmentParentId": 12812,
+                        "department": "Theater Arts",
+                        "begin": "F2024",
+                        "end": "",
+                        "minUnits": 4.0,
+                        "maxUnits": 4.0,
+                        "pathways": [],
+                        "publishedCourseIdentifierYearTermId": 179,
+                        "position": 0,
+                        "type": "Course"
+                      }
+                    ],
+                    "attributes": [],
+                    "position": 0,
+                    "type": "CourseGroup"
+                  }
+                ],
+                "courseGroupConjunctions": [],
+                "type": "TemplateOverride",
+                "attributes": []
+              }
+            }
+          ],
+          "attributes": [],
+          "receivingAttributes": []
+        },
+        "receivingAttributes": {
+          "type": "Requirement",
+          "requirementAttributes": [],
+          "attributes": []
+        }
+      }
+    ],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}

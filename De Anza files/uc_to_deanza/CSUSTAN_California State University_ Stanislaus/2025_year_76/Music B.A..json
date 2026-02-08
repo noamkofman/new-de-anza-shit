@@ -1,0 +1,923 @@
+{
+  "result": {
+    "name": "Music B.A.",
+    "type": "Major",
+    "publishDate": "2025-11-17T20:51:35.2021321",
+    "receivingInstitution": "{\"id\":24,\"code\":\"CSUSTAN \",\"isCommunityCollege\":false,\"category\":\"CSU\",\"termType\":\"Semester\",\"names\":[{\"name\":\"California State University, Stanislaus\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Semester\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "sendingInstitution": "{\"id\":113,\"code\":\"DAC     \",\"isCommunityCollege\":true,\"category\":\"CCC\",\"termType\":\"Quarter\",\"names\":[{\"name\":\"De Anza College\",\"hasDepartments\":true,\"fromYear\":0,\"hideInList\":false}],\"termTypeAcademicYears\":[{\"termType\":\"Quarter\",\"fromYear\":1980}],\"beginId\":31,\"endId\":null}",
+    "academicYear": "{\"id\":76,\"code\":\"2025-2026\",\"beginDate\":\"2025-10-01T00:00:00\",\"endDate\":\"2026-10-01T00:00:00\",\"isOpenForMaintenance\":true,\"isOpenForPublic\":true,\"isOpenForReporting\":true,\"isLocked\":false}",
+    "templateAssets": [
+      {
+        "type": "GeneralText",
+        "content": "<p>This agreement displays all<strong> lower-division courses required in the major</strong>: Stanislaus State courses or requirements on the left, approved (articulated) transfer courses on the right.</p><p><br></p><p><strong>Helpful resources: </strong></p><p><a href=\"https://catalog.csustan.edu/index.php\" rel=\"noopener noreferrer\" target=\"_blank\">Academic Catalog</a></p><p><a href=\"https://www.csustan.edu/undergrad/transfer-admission\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Admissions</a></p><p><br></p><p>Questions regarding this agreement may be directed to the Stanislaus State Articulation Analyst. Please visit the <a href=\"https://www.csustan.edu/articulation\" rel=\"noopener noreferrer\" target=\"_blank\">Stanislaus State Articulation Website</a> for contact information.</p>",
+        "groupId": "97046645-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "General"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "Additional information for Major Prerequisites",
+        "groupId": "c8156645-6887-ef11-8474-000d3a37e3b6",
+        "position": 4,
+        "area": "General"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>Transfer students entering the music major must be evaluated by the Department before registering for their first semester on campus. Depending upon audition results, one to four units of lower division applied study and/or lower division Major Repertoire may be waived.</p><p><br></p><p>Two units from Section 2 of the Lower Division Prerequisites below must be taken in consecutive semesters, as directed by the major advisor.</p>",
+        "groupId": "c9156645-6887-ef11-8474-000d3a37e3b6",
+        "position": 5,
+        "area": "General"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "LOWER DIVISION PREREQUISITES",
+        "groupId": "47007945-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "About the Major",
+        "groupId": "fda37645-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 314899,
+                      "courseTitle": "Music Technology II",
+                      "courseNumber": "2160",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F2005",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "dbb1bd07-3eef-437b-250e-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 374717,
+                      "courseTitle": "Live Sound Design",
+                      "courseNumber": "2170",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F2020",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "d6d1cc4e-f2f0-4d52-250f-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 374711,
+                      "courseTitle": "Computer Music Notation",
+                      "courseNumber": "2180",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F2020",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "09f0023b-ad44-4234-2510-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 374710,
+                      "courseTitle": "Studio Performance Techniques",
+                      "courseNumber": "2190",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F2020",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "5e1eea32-c45a-40a3-2511-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "4e7feac0-5256-4e61-6698-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "e0027045-6887-ef11-8474-000d3a37e3b6",
+        "position": 5,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 219623,
+                      "courseTitle": "Music of World Cultures",
+                      "courseNumber": "2000",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1996",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "bb5c92df-81b6-4407-2512-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 28933,
+                      "courseTitle": "Eartraining and Sightsinging I",
+                      "courseNumber": "1320",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "52858d3f-ad86-4646-2513-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 5,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 47963,
+                      "courseTitle": "Introduction to Music Technology",
+                      "courseNumber": "2150",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F2005",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "c46d4255-b3f7-4c34-2514-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 157924,
+                      "courseTitle": "Theory II",
+                      "courseNumber": "1230",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1993",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "48b761c5-5331-4b45-2515-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 136387,
+                      "courseTitle": "Theory I",
+                      "courseNumber": "1220",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1993",
+                      "end": "",
+                      "minUnits": 3.0,
+                      "maxUnits": 3.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "9ded4bf7-f1fb-4400-2516-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 27174,
+                      "courseTitle": "Eartraining and Sightsinging II",
+                      "courseNumber": "1330",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "d1659910-2b61-4827-2517-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "da455f73-a63d-4a7e-6699-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "3de77145-6887-ef11-8474-000d3a37e3b6",
+        "position": 1,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementTitle",
+        "content": "MUSIC TECHNOLOGY EMPHASIS",
+        "groupId": "73f37645-6887-ef11-8474-000d3a37e3b6",
+        "position": 4,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralText",
+        "content": "<p>The Bachelor of Arts in Music provides a humanistic approach to the study of music as a significant part of human tradition and culture. A variety of career opportunities may be open to students with this background in a liberal arts curriculum. Emphasis areas include general music and music technology.</p><p><br></p><p>View information for the <a href=\"https://catalog.csustan.edu/preview_entity.php?catoid=35&amp;ent_oid=1703\" rel=\"noopener noreferrer\" target=\"_blank\">Department of Music</a>, including Learning Objectives for the department and its programs.</p>",
+        "groupId": "7ed77645-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "General"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 99057,
+                      "courseTitle": "Freshman-Level Keyboard",
+                      "courseNumber": "1610",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "0cab0240-52b4-4400-2518-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 45940,
+                      "courseTitle": "Freshman-Level Orchestral Instruments",
+                      "courseNumber": "1670",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1999",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "f693b4a3-49d7-4243-2519-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 27167,
+                      "courseTitle": "Freshman-Level Voice",
+                      "courseNumber": "1640",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "21580ad3-f921-470a-251a-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [
+              {
+                "type": "NFollowing",
+                "amount": 2.0,
+                "amountUnitType": "Unit",
+                "position": 0,
+                "selectionType": "Select"
+              }
+            ],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [
+          {
+            "position": 1,
+            "content": "Select courses in consultation with an advisor"
+          },
+          {
+            "position": 0,
+            "content": "Please refer to additional important General Information section above"
+          }
+        ],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "Following",
+          "id": "6dbec901-a638-4ef1-669a-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "f8ea6545-6887-ef11-8474-000d3a37e3b6",
+        "position": 2,
+        "area": "Requirements"
+      },
+      {
+        "type": "RequirementGroup",
+        "hideSectionLetters": false,
+        "sections": [
+          {
+            "type": "Section",
+            "rows": [
+              {
+                "position": 10,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 44028,
+                      "courseTitle": "Sophomore Level Orchestral Instruments",
+                      "courseNumber": "2670",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1999",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "81611088-0a3f-42b4-251b-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 0,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 28932,
+                      "courseTitle": "Basic Class Piano",
+                      "courseNumber": "1600",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1993",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "33f4b55b-16ba-4ff1-251c-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 4,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 27167,
+                      "courseTitle": "Freshman-Level Voice",
+                      "courseNumber": "1640",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "d1eb4e24-5c84-4e9a-251d-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 7,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 42747,
+                      "courseTitle": "Intermediate Class Voice",
+                      "courseNumber": "2630",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1996",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "a3f255a6-2636-4321-251e-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 3,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 26803,
+                      "courseTitle": "Basic Class Voice",
+                      "courseNumber": "1630",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "b48a4a1c-7a1b-4eee-251f-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 1,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 99057,
+                      "courseTitle": "Freshman-Level Keyboard",
+                      "courseNumber": "1610",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1998",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "03344349-ddd5-4252-2520-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 2,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 26850,
+                      "courseTitle": "Basic Class Guitar",
+                      "courseNumber": "1620",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1993",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "310ea440-0394-4b79-2521-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 9,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 27171,
+                      "courseTitle": "Intermediate Class Guitar",
+                      "courseNumber": "2650",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1993",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "59b5d55b-081e-436c-2522-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 5,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 45940,
+                      "courseTitle": "Freshman-Level Orchestral Instruments",
+                      "courseNumber": "1670",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1999",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "8ee7a0d3-161b-4c9d-2523-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 6,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 99054,
+                      "courseTitle": "Sophomore-Level Keyboard",
+                      "courseNumber": "2610",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1999",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "9956e901-749a-4cdf-2524-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              },
+              {
+                "position": 8,
+                "cells": [
+                  {
+                    "type": "Course",
+                    "course": {
+                      "courseIdentifierParentId": 27164,
+                      "courseTitle": "Sophomore-Level Voice",
+                      "courseNumber": "2640",
+                      "prefix": "MUS",
+                      "prefixParentId": 6532,
+                      "prefixDescription": "Music",
+                      "departmentParentId": 9399,
+                      "department": "Music",
+                      "begin": "F1999",
+                      "end": "",
+                      "minUnits": 1.0,
+                      "maxUnits": 1.0,
+                      "pathways": []
+                    },
+                    "visibleCrossListedCourses": [],
+                    "requisites": [],
+                    "courseAttributes": [],
+                    "id": "c2492c2d-fbec-4f40-2525-08ddcef9aed6",
+                    "position": 0,
+                    "attributes": []
+                  }
+                ],
+                "attributes": []
+              }
+            ],
+            "advisements": [],
+            "position": 0,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "showConjunctionBetweenSections": false,
+        "academicYearId": 0,
+        "institutionParentId": 0,
+        "instruction": {
+          "type": "NFromArea",
+          "amount": 2.0,
+          "amountQuantifier": "None",
+          "amountUnitType": "Unit",
+          "toAmountDeterminer": "None",
+          "toAmount": 1.0,
+          "areaType": "None",
+          "id": "c228dbce-e7bc-4f62-669b-08ddcef9aed0",
+          "selectionType": "Complete"
+        },
+        "advisements": [],
+        "groupId": "f0387445-6887-ef11-8474-000d3a37e3b6",
+        "position": 3,
+        "area": "Requirements"
+      },
+      {
+        "type": "GeneralTitle",
+        "content": "General Information",
+        "groupId": "82fc7845-6887-ef11-8474-000d3a37e3b6",
+        "position": 0,
+        "area": "General"
+      }
+    ],
+    "articulations": [],
+    "catalogYear": "{\"receivingCatalogYearBegin\":2025,\"receivingCatalogYearEnd\":2026,\"sendingCatalogYearBegin\":2025,\"sendingCatalogYearEnd\":2026}"
+  },
+  "validationFailure": null,
+  "isSuccessful": true
+}
